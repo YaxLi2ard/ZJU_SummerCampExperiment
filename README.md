@@ -1,2 +1,2 @@
 # ZJU_SummerCampExperiment
-正在上传模型权重至网盘
+模型权重链接：https://www.alipan.com/s/HxJxj6ePJ5Z
