@@ -4,6 +4,13 @@
 ## 模型权重下载
 实验产出的模型权重下载链接：[GoogleDrive](https://drive.google.com/drive/folders/19zOXVr5xmxtXvVQUlOEGF_MGCapKMfrG?usp=drive_link)
 
+## 主要运行环境
+```
+numpy == 1.22.4
+pytorch == 2.0.0
+spikingjelly == 0.0.0.0.14
+```
+
 ## 文件结构说明
 ```
 
