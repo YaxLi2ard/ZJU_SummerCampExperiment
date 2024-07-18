@@ -1,0 +1,2 @@
+放预训练模型
+默认加载'LIAFResNet18_Acc52.pkl'

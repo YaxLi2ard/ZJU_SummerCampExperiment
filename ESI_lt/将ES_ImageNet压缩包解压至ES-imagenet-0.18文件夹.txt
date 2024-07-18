@@ -1,0 +1,1 @@
+将ES_ImageNet压缩包解压至ES-imagenet-0.18文件夹
