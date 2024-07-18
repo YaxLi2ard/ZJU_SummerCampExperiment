@@ -1,2 +1,2 @@
 # ZJU_SummerCampExperiment
-请稍等，正在整理代码，很快就上传
+正在上传模型权重至网盘
