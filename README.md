@@ -10,7 +10,7 @@
 ZJU_SummerCampExperiment:
 │          
 ├─code1
-│  │  LIAF.py   // <span style="color:blue">ResNet模型代码</span>
+│  │  LIAF.py   // ResNet模型代码
 │  │  LIAFResNet.py   // ResNet模型代码
 │  │  LIAFResNet_18.py   // ResNet模型代码
 │  │  main.py   // 在DVS128上训练ResNet
