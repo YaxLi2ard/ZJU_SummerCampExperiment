@@ -17,6 +17,7 @@ spikingjelly == 0.0.0.0.14
 ZJU_SummerCampExperiment:
 │          
 ├─code1
+│  │  // 阶段2 步骤1，在DVS128 Gesture上微调ResNet(SNN)模型
 │  │  LIAF.py   // ResNet模型代码
 │  │  LIAFResNet.py   // ResNet模型代码
 │  │  LIAFResNet_18.py   // ResNet模型代码
@@ -32,6 +33,7 @@ ZJU_SummerCampExperiment:
 │          // 存放微调的模型权重
 │          
 ├─code2
+│  │  // 阶段2 步骤1，在DVS128 Gesture上微调Spike-DrivenV2模型
 │  │  main.py   // 在DVS128上训练Spike-DrivenV2
 │  │  merging_greedy.py   // greedy soup合并模型
 │  │  merging_uniform.py   // uniform soup合并模型
@@ -42,7 +44,7 @@ ZJU_SummerCampExperiment:
 │          // 存放微调的模型权重
 │
 ├─code2_new 
-│  │  // 重新进行的 阶段2 步骤1 的任务 
+│  │  // 重新进行的 阶段2 步骤1，在DVS128 Gesture上微调Spike-DrivenV2模型
 │  │  main.py   // 在DVS128上训练Spike-DrivenV2
 │  │  merging_greedy.py   // greedy soup合并模型
 │  │  merging_uniform.py   // uniform soup合并模型
@@ -56,6 +58,7 @@ ZJU_SummerCampExperiment:
 │          // 存放微调的模型权重
 │
 ├─code3
+│  │  // 阶段2 步骤2，在常规静态数据集CIFAR-10上微调Spike-DrivenV2模型
 │  │  main.py   // 在CIFAR10上训练Spike-DrivenV2
 │  │  merging_greedy.py   // greedy soup合并模型
 │  │  merging_uniform.py   // uniform soup合并模型
@@ -72,6 +75,7 @@ ZJU_SummerCampExperiment:
 │      // 存放下载的DVS128 Gesture数据集
 │      
 └─ESI_lt
+    │  // 阶段1，减小ES_ImageNet数据集规模，并在其上预训练ResNet(SNN)和Spike-DrivenV2
     │  delete_file.py   // 删除数据集中的文件、文件夹，缩减数据集规模
     │  delete_label.py   // 缩减数据集规模后，删除txt中的多余标签
     │  LIAF.py   // ResNet模型代码
