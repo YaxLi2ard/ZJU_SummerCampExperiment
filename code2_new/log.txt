@@ -1,0 +1,4695 @@
+
+
+参数 ->  {'lr': 0.0001, 'batch_size': 9, 'epochs': 30, 'loss': 'CE', 'dropout_mlp': 0.2, 'dropout_head': 0.1, 'optim': 'AdamW', 'weight_decay': 0.0005}
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+---------------------------------Training---------------------------------
+
+[Train] Epoch: 1/30 batch: 0/130 time: 2.9s Loss: 2.42 Acc: 0.000%
+
+[Train] Epoch: 1/30 batch: 10/130 time: 7.2s Loss: 2.28 Acc: 16.667%
+
+[Train] Epoch: 1/30 batch: 20/130 time: 7.2s Loss: 2.33 Acc: 20.000%
+
+[Train] Epoch: 1/30 batch: 30/130 time: 7.2s Loss: 2.13 Acc: 27.778%
+
+[Train] Epoch: 1/30 batch: 40/130 time: 7.3s Loss: 2.36 Acc: 20.000%
+
+[Train] Epoch: 1/30 batch: 50/130 time: 7.3s Loss: 2.18 Acc: 30.000%
+
+[Train] Epoch: 1/30 batch: 60/130 time: 7.2s Loss: 1.81 Acc: 31.111%
+
+[Train] Epoch: 1/30 batch: 70/130 time: 7.3s Loss: 1.54 Acc: 41.111%
+
+[Train] Epoch: 1/30 batch: 80/130 time: 7.4s Loss: 1.56 Acc: 41.111%
+
+[Train] Epoch: 1/30 batch: 90/130 time: 7.3s Loss: 1.68 Acc: 37.778%
+
+[Train] Epoch: 1/30 batch: 100/130 time: 7.3s Loss: 1.78 Acc: 37.778%
+
+[Train] Epoch: 1/30 batch: 110/130 time: 7.3s Loss: 1.44 Acc: 48.889%
+
+[Train] Epoch: 1/30 batch: 120/130 time: 7.3s Loss: 1.49 Acc: 57.778%
+
+[Evaluate] Acc: 54.861%
+
+[Train] Epoch: 2/30 batch: 0/130 time: 14.2s Loss: 1.11 Acc: 50.000%
+
+[Train] Epoch: 2/30 batch: 10/130 time: 7.3s Loss: 1.25 Acc: 62.222%
+
+[Train] Epoch: 2/30 batch: 20/130 time: 7.3s Loss: 1.33 Acc: 71.111%
+
+[Train] Epoch: 2/30 batch: 30/130 time: 7.4s Loss: 0.99 Acc: 64.444%
+
+[Train] Epoch: 2/30 batch: 40/130 time: 7.3s Loss: 0.55 Acc: 57.778%
+
+[Train] Epoch: 2/30 batch: 50/130 time: 7.3s Loss: 0.91 Acc: 72.222%
+
+[Train] Epoch: 2/30 batch: 60/130 time: 7.3s Loss: 1.14 Acc: 70.000%
+
+[Train] Epoch: 2/30 batch: 70/130 time: 7.3s Loss: 0.95 Acc: 68.889%
+
+[Train] Epoch: 2/30 batch: 80/130 time: 7.3s Loss: 0.82 Acc: 70.000%
+
+[Train] Epoch: 2/30 batch: 90/130 time: 7.3s Loss: 0.86 Acc: 66.667%
+
+[Train] Epoch: 2/30 batch: 100/130 time: 7.3s Loss: 0.72 Acc: 70.000%
+
+[Train] Epoch: 2/30 batch: 110/130 time: 7.3s Loss: 0.60 Acc: 66.667%
+
+[Train] Epoch: 2/30 batch: 120/130 time: 7.3s Loss: 0.77 Acc: 68.889%
+
+[Evaluate] Acc: 77.431%
+
+[Train] Epoch: 3/30 batch: 0/130 time: 14.3s Loss: 0.86 Acc: 67.778%
+
+[Train] Epoch: 3/30 batch: 10/130 time: 7.3s Loss: 0.55 Acc: 74.444%
+
+[Train] Epoch: 3/30 batch: 20/130 time: 7.3s Loss: 0.33 Acc: 70.000%
+
+[Train] Epoch: 3/30 batch: 30/130 time: 7.3s Loss: 0.50 Acc: 68.889%
+
+[Train] Epoch: 3/30 batch: 40/130 time: 7.3s Loss: 1.16 Acc: 74.444%
+
+[Train] Epoch: 3/30 batch: 50/130 time: 7.3s Loss: 0.36 Acc: 74.444%
+
+[Train] Epoch: 3/30 batch: 60/130 time: 7.3s Loss: 0.44 Acc: 76.667%
+
+[Train] Epoch: 3/30 batch: 70/130 time: 7.4s Loss: 0.34 Acc: 77.778%
+
+[Train] Epoch: 3/30 batch: 80/130 time: 7.3s Loss: 0.38 Acc: 74.444%
+
+[Train] Epoch: 3/30 batch: 90/130 time: 7.3s Loss: 0.57 Acc: 72.222%
+
+[Train] Epoch: 3/30 batch: 100/130 time: 7.3s Loss: 0.46 Acc: 73.333%
+
+[Train] Epoch: 3/30 batch: 110/130 time: 7.3s Loss: 0.62 Acc: 77.778%
+
+[Train] Epoch: 3/30 batch: 120/130 time: 7.3s Loss: 0.44 Acc: 83.333%
+
+[Evaluate] Acc: 80.208%
+
+[Train] Epoch: 4/30 batch: 0/130 time: 14.3s Loss: 0.32 Acc: 86.667%
+
+[Train] Epoch: 4/30 batch: 10/130 time: 7.3s Loss: 0.34 Acc: 70.000%
+
+[Train] Epoch: 4/30 batch: 20/130 time: 7.3s Loss: 0.30 Acc: 76.667%
+
+[Train] Epoch: 4/30 batch: 30/130 time: 7.3s Loss: 0.35 Acc: 80.000%
+
+[Train] Epoch: 4/30 batch: 40/130 time: 7.3s Loss: 0.78 Acc: 83.333%
+
+[Train] Epoch: 4/30 batch: 50/130 time: 7.3s Loss: 0.49 Acc: 81.111%
+
+[Train] Epoch: 4/30 batch: 60/130 time: 7.4s Loss: 0.58 Acc: 80.000%
+
+[Train] Epoch: 4/30 batch: 70/130 time: 7.3s Loss: 0.52 Acc: 72.222%
+
+[Train] Epoch: 4/30 batch: 80/130 time: 7.3s Loss: 0.20 Acc: 84.444%
+
+[Train] Epoch: 4/30 batch: 90/130 time: 7.3s Loss: 0.42 Acc: 77.778%
+
+[Train] Epoch: 4/30 batch: 100/130 time: 7.3s Loss: 0.16 Acc: 78.889%
+
+[Train] Epoch: 4/30 batch: 110/130 time: 7.3s Loss: 0.93 Acc: 81.111%
+
+[Train] Epoch: 4/30 batch: 120/130 time: 7.3s Loss: 0.51 Acc: 82.222%
+
+[Evaluate] Acc: 80.556%
+
+[Train] Epoch: 5/30 batch: 0/130 time: 14.3s Loss: 0.22 Acc: 77.778%
+
+[Train] Epoch: 5/30 batch: 10/130 time: 7.3s Loss: 0.45 Acc: 78.889%
+
+[Train] Epoch: 5/30 batch: 20/130 time: 7.3s Loss: 0.29 Acc: 73.333%
+
+[Train] Epoch: 5/30 batch: 30/130 time: 7.4s Loss: 0.25 Acc: 85.556%
+
+[Train] Epoch: 5/30 batch: 40/130 time: 7.3s Loss: 0.68 Acc: 80.000%
+
+[Train] Epoch: 5/30 batch: 50/130 time: 7.3s Loss: 0.47 Acc: 83.333%
+
+[Train] Epoch: 5/30 batch: 60/130 time: 7.3s Loss: 0.37 Acc: 82.222%
+
+[Train] Epoch: 5/30 batch: 70/130 time: 7.3s Loss: 0.34 Acc: 81.111%
+
+[Train] Epoch: 5/30 batch: 80/130 time: 7.3s Loss: 0.38 Acc: 84.444%
+
+[Train] Epoch: 5/30 batch: 90/130 time: 7.3s Loss: 0.30 Acc: 83.333%
+
+[Train] Epoch: 5/30 batch: 100/130 time: 7.3s Loss: 0.23 Acc: 73.333%
+
+[Train] Epoch: 5/30 batch: 110/130 time: 7.3s Loss: 0.20 Acc: 86.667%
+
+[Train] Epoch: 5/30 batch: 120/130 time: 7.3s Loss: 0.17 Acc: 80.000%
+
+[Evaluate] Acc: 81.944%
+
+[Train] Epoch: 6/30 batch: 0/130 time: 14.2s Loss: 0.31 Acc: 82.222%
+
+[Train] Epoch: 6/30 batch: 10/130 time: 7.3s Loss: 0.20 Acc: 87.778%
+
+[Train] Epoch: 6/30 batch: 20/130 time: 7.3s Loss: 0.83 Acc: 90.000%
+
+[Train] Epoch: 6/30 batch: 30/130 time: 7.3s Loss: 0.30 Acc: 83.333%
+
+[Train] Epoch: 6/30 batch: 40/130 time: 7.3s Loss: 0.28 Acc: 80.000%
+
+[Train] Epoch: 6/30 batch: 50/130 time: 7.3s Loss: 0.23 Acc: 84.444%
+
+[Train] Epoch: 6/30 batch: 60/130 time: 7.3s Loss: 0.21 Acc: 81.111%
+
+[Train] Epoch: 6/30 batch: 70/130 time: 7.3s Loss: 0.17 Acc: 85.556%
+
+[Train] Epoch: 6/30 batch: 80/130 time: 7.3s Loss: 0.45 Acc: 90.000%
+
+[Train] Epoch: 6/30 batch: 90/130 time: 7.3s Loss: 0.11 Acc: 81.111%
+
+[Train] Epoch: 6/30 batch: 100/130 time: 7.3s Loss: 0.37 Acc: 82.222%
+
+[Train] Epoch: 6/30 batch: 110/130 time: 7.3s Loss: 0.24 Acc: 82.222%
+
+[Train] Epoch: 6/30 batch: 120/130 time: 7.3s Loss: 0.22 Acc: 87.778%
+
+[Evaluate] Acc: 80.903%
+
+[Train] Epoch: 7/30 batch: 0/130 time: 14.2s Loss: 0.33 Acc: 84.444%
+
+[Train] Epoch: 7/30 batch: 10/130 time: 7.3s Loss: 0.18 Acc: 86.667%
+
+[Train] Epoch: 7/30 batch: 20/130 time: 7.4s Loss: 0.07 Acc: 85.556%
+
+[Train] Epoch: 7/30 batch: 30/130 time: 7.3s Loss: 0.36 Acc: 85.556%
+
+[Train] Epoch: 7/30 batch: 40/130 time: 7.3s Loss: 0.32 Acc: 88.889%
+
+[Train] Epoch: 7/30 batch: 50/130 time: 7.3s Loss: 0.51 Acc: 87.778%
+
+[Train] Epoch: 7/30 batch: 60/130 time: 7.3s Loss: 0.29 Acc: 82.222%
+
+[Train] Epoch: 7/30 batch: 70/130 time: 7.3s Loss: 0.32 Acc: 77.778%
+
+[Train] Epoch: 7/30 batch: 80/130 time: 7.3s Loss: 0.23 Acc: 84.444%
+
+[Train] Epoch: 7/30 batch: 90/130 time: 7.3s Loss: 0.11 Acc: 85.556%
+
+[Train] Epoch: 7/30 batch: 100/130 time: 7.3s Loss: 0.26 Acc: 83.333%
+
+[Train] Epoch: 7/30 batch: 110/130 time: 7.3s Loss: 0.32 Acc: 88.889%
+
+[Train] Epoch: 7/30 batch: 120/130 time: 7.3s Loss: 0.49 Acc: 82.222%
+
+[Evaluate] Acc: 82.639%
+
+[Train] Epoch: 8/30 batch: 0/130 time: 14.3s Loss: 0.47 Acc: 83.333%
+
+[Train] Epoch: 8/30 batch: 10/130 time: 7.3s Loss: 0.23 Acc: 91.111%
+
+[Train] Epoch: 8/30 batch: 20/130 time: 7.4s Loss: 0.36 Acc: 85.556%
+
+[Train] Epoch: 8/30 batch: 30/130 time: 7.3s Loss: 0.15 Acc: 80.000%
+
+[Train] Epoch: 8/30 batch: 40/130 time: 7.3s Loss: 0.16 Acc: 88.889%
+
+[Train] Epoch: 8/30 batch: 50/130 time: 7.3s Loss: 0.12 Acc: 92.222%
+
+[Train] Epoch: 8/30 batch: 60/130 time: 7.3s Loss: 0.33 Acc: 78.889%
+
+[Train] Epoch: 8/30 batch: 70/130 time: 7.3s Loss: 0.31 Acc: 86.667%
+
+[Train] Epoch: 8/30 batch: 80/130 time: 7.3s Loss: 0.10 Acc: 88.889%
+
+[Train] Epoch: 8/30 batch: 90/130 time: 7.3s Loss: 0.26 Acc: 86.667%
+
+[Train] Epoch: 8/30 batch: 100/130 time: 7.3s Loss: 0.32 Acc: 81.111%
+
+[Train] Epoch: 8/30 batch: 110/130 time: 7.3s Loss: 0.26 Acc: 88.889%
+
+[Train] Epoch: 8/30 batch: 120/130 time: 7.4s Loss: 0.20 Acc: 87.778%
+
+[Evaluate] Acc: 85.417%
+
+[Train] Epoch: 9/30 batch: 0/130 time: 14.2s Loss: 0.26 Acc: 91.111%
+
+[Train] Epoch: 9/30 batch: 10/130 time: 7.3s Loss: 0.28 Acc: 93.333%
+
+[Train] Epoch: 9/30 batch: 20/130 time: 7.3s Loss: 0.14 Acc: 90.000%
+
+[Train] Epoch: 9/30 batch: 30/130 time: 7.3s Loss: 0.12 Acc: 84.444%
+
+[Train] Epoch: 9/30 batch: 40/130 time: 7.3s Loss: 0.31 Acc: 86.667%
+
+[Train] Epoch: 9/30 batch: 50/130 time: 7.3s Loss: 0.33 Acc: 91.111%
+
+[Train] Epoch: 9/30 batch: 60/130 time: 7.3s Loss: 0.43 Acc: 91.111%
+
+[Train] Epoch: 9/30 batch: 70/130 time: 7.4s Loss: 0.20 Acc: 88.889%
+
+[Train] Epoch: 9/30 batch: 80/130 time: 7.3s Loss: 0.31 Acc: 82.222%
+
+[Train] Epoch: 9/30 batch: 90/130 time: 7.3s Loss: 0.21 Acc: 91.111%
+
+[Train] Epoch: 9/30 batch: 100/130 time: 7.3s Loss: 0.14 Acc: 90.000%
+
+[Train] Epoch: 9/30 batch: 110/130 time: 7.3s Loss: 0.06 Acc: 95.556%
+
+[Train] Epoch: 9/30 batch: 120/130 time: 7.3s Loss: 0.11 Acc: 93.333%
+
+[Evaluate] Acc: 87.500%
+
+[Train] Epoch: 10/30 batch: 0/130 time: 14.3s Loss: 0.19 Acc: 86.667%
+
+[Train] Epoch: 10/30 batch: 10/130 time: 7.3s Loss: 0.27 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 20/130 time: 7.3s Loss: 0.18 Acc: 94.444%
+
+[Train] Epoch: 10/30 batch: 30/130 time: 7.3s Loss: 0.17 Acc: 94.444%
+
+[Train] Epoch: 10/30 batch: 40/130 time: 7.3s Loss: 0.14 Acc: 85.556%
+
+[Train] Epoch: 10/30 batch: 50/130 time: 7.3s Loss: 0.25 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 60/130 time: 7.3s Loss: 0.28 Acc: 97.778%
+
+[Train] Epoch: 10/30 batch: 70/130 time: 7.3s Loss: 0.05 Acc: 91.111%
+
+[Train] Epoch: 10/30 batch: 80/130 time: 7.3s Loss: 0.09 Acc: 94.444%
+
+[Train] Epoch: 10/30 batch: 90/130 time: 7.3s Loss: 0.08 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 100/130 time: 7.3s Loss: 0.15 Acc: 94.444%
+
+[Train] Epoch: 10/30 batch: 110/130 time: 7.5s Loss: 0.34 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 120/130 time: 7.3s Loss: 0.39 Acc: 88.889%
+
+[Evaluate] Acc: 92.708%
+
+[Train] Epoch: 11/30 batch: 0/130 time: 14.3s Loss: 0.30 Acc: 85.556%
+
+[Train] Epoch: 11/30 batch: 10/130 time: 7.3s Loss: 0.30 Acc: 97.778%
+
+[Train] Epoch: 11/30 batch: 20/130 time: 7.3s Loss: 0.05 Acc: 93.333%
+
+[Train] Epoch: 11/30 batch: 30/130 time: 7.3s Loss: 0.25 Acc: 95.556%
+
+[Train] Epoch: 11/30 batch: 40/130 time: 7.3s Loss: 0.15 Acc: 95.556%
+
+[Train] Epoch: 11/30 batch: 50/130 time: 7.3s Loss: 0.14 Acc: 97.778%
+
+[Train] Epoch: 11/30 batch: 60/130 time: 7.3s Loss: 0.16 Acc: 96.667%
+
+[Train] Epoch: 11/30 batch: 70/130 time: 7.3s Loss: 0.15 Acc: 94.444%
+
+[Train] Epoch: 11/30 batch: 80/130 time: 7.3s Loss: 0.14 Acc: 95.556%
+
+[Train] Epoch: 11/30 batch: 90/130 time: 7.3s Loss: 0.22 Acc: 94.444%
+
+[Train] Epoch: 11/30 batch: 100/130 time: 7.4s Loss: 0.13 Acc: 95.556%
+
+[Train] Epoch: 11/30 batch: 110/130 time: 7.3s Loss: 0.22 Acc: 91.111%
+
+[Train] Epoch: 11/30 batch: 120/130 time: 7.3s Loss: 0.14 Acc: 94.444%
+
+[Evaluate] Acc: 93.403%
+
+[Train] Epoch: 12/30 batch: 0/130 time: 14.3s Loss: 0.17 Acc: 92.222%
+
+[Train] Epoch: 12/30 batch: 10/130 time: 7.2s Loss: 0.22 Acc: 93.333%
+
+[Train] Epoch: 12/30 batch: 20/130 time: 7.2s Loss: 0.35 Acc: 94.444%
+
+[Train] Epoch: 12/30 batch: 30/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Train] Epoch: 12/30 batch: 40/130 time: 7.2s Loss: 0.12 Acc: 95.556%
+
+[Train] Epoch: 12/30 batch: 50/130 time: 7.2s Loss: 0.17 Acc: 95.556%
+
+[Train] Epoch: 12/30 batch: 60/130 time: 7.2s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 12/30 batch: 70/130 time: 7.4s Loss: 0.08 Acc: 94.444%
+
+[Train] Epoch: 12/30 batch: 80/130 time: 7.2s Loss: 0.11 Acc: 97.778%
+
+[Train] Epoch: 12/30 batch: 90/130 time: 7.2s Loss: 0.39 Acc: 95.556%
+
+[Train] Epoch: 12/30 batch: 100/130 time: 7.2s Loss: 0.32 Acc: 91.111%
+
+[Train] Epoch: 12/30 batch: 110/130 time: 7.3s Loss: 0.09 Acc: 94.444%
+
+[Train] Epoch: 12/30 batch: 120/130 time: 7.2s Loss: 0.09 Acc: 94.444%
+
+[Evaluate] Acc: 93.403%
+
+[Train] Epoch: 13/30 batch: 0/130 time: 14.1s Loss: 0.16 Acc: 98.889%
+
+[Train] Epoch: 13/30 batch: 10/130 time: 7.2s Loss: 0.09 Acc: 94.444%
+
+[Train] Epoch: 13/30 batch: 20/130 time: 7.3s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 13/30 batch: 30/130 time: 7.2s Loss: 0.04 Acc: 91.111%
+
+[Train] Epoch: 13/30 batch: 40/130 time: 7.2s Loss: 0.08 Acc: 95.556%
+
+[Train] Epoch: 13/30 batch: 50/130 time: 7.2s Loss: 0.14 Acc: 93.333%
+
+[Train] Epoch: 13/30 batch: 60/130 time: 7.3s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 13/30 batch: 70/130 time: 7.2s Loss: 0.12 Acc: 97.778%
+
+[Train] Epoch: 13/30 batch: 80/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Train] Epoch: 13/30 batch: 90/130 time: 7.2s Loss: 0.35 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 100/130 time: 7.2s Loss: 0.06 Acc: 95.556%
+
+[Train] Epoch: 13/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 13/30 batch: 120/130 time: 7.2s Loss: 0.05 Acc: 96.667%
+
+[Evaluate] Acc: 92.361%
+
+[Train] Epoch: 14/30 batch: 0/130 time: 14.1s Loss: 0.09 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 10/130 time: 7.2s Loss: 0.08 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 20/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 14/30 batch: 30/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 14/30 batch: 40/130 time: 7.2s Loss: 0.13 Acc: 100.000%
+
+[Train] Epoch: 14/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 14/30 batch: 60/130 time: 7.3s Loss: 0.06 Acc: 97.778%
+
+[Train] Epoch: 14/30 batch: 70/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 14/30 batch: 80/130 time: 7.2s Loss: 0.15 Acc: 98.889%
+
+[Train] Epoch: 14/30 batch: 90/130 time: 7.2s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 100/130 time: 7.2s Loss: 0.16 Acc: 98.889%
+
+[Train] Epoch: 14/30 batch: 110/130 time: 7.2s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 14/30 batch: 120/130 time: 7.2s Loss: 0.05 Acc: 93.333%
+
+[Evaluate] Acc: 94.792%
+
+[Train] Epoch: 15/30 batch: 0/130 time: 14.1s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 10/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 20/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 15/30 batch: 30/130 time: 7.2s Loss: 0.10 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 40/130 time: 7.2s Loss: 0.01 Acc: 94.444%
+
+[Train] Epoch: 15/30 batch: 50/130 time: 7.2s Loss: 0.13 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 60/130 time: 7.3s Loss: 0.18 Acc: 95.556%
+
+[Train] Epoch: 15/30 batch: 70/130 time: 7.2s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 80/130 time: 7.2s Loss: 0.16 Acc: 94.444%
+
+[Train] Epoch: 15/30 batch: 90/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 100/130 time: 7.2s Loss: 0.11 Acc: 100.000%
+
+[Train] Epoch: 15/30 batch: 110/130 time: 7.2s Loss: 0.09 Acc: 92.222%
+
+[Train] Epoch: 15/30 batch: 120/130 time: 7.2s Loss: 0.08 Acc: 98.889%
+
+[Evaluate] Acc: 95.139%
+saved
+
+[Train] Epoch: 16/30 batch: 0/130 time: 14.3s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 10/130 time: 7.2s Loss: 0.08 Acc: 95.556%
+
+[Train] Epoch: 16/30 batch: 20/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 30/130 time: 7.3s Loss: 0.16 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 40/130 time: 7.2s Loss: 0.47 Acc: 96.667%
+
+[Train] Epoch: 16/30 batch: 50/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 16/30 batch: 60/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 70/130 time: 7.2s Loss: 0.10 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 80/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 90/130 time: 7.2s Loss: 0.12 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 100/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 95.556%
+
+[Train] Epoch: 16/30 batch: 120/130 time: 7.2s Loss: 0.09 Acc: 96.667%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 17/30 batch: 0/130 time: 14.2s Loss: 0.44 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 10/130 time: 7.2s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 17/30 batch: 20/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 30/130 time: 7.2s Loss: 0.03 Acc: 95.556%
+
+[Train] Epoch: 17/30 batch: 40/130 time: 7.2s Loss: 0.09 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 50/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 60/130 time: 7.2s Loss: 0.08 Acc: 98.889%
+
+[Train] Epoch: 17/30 batch: 70/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 80/130 time: 7.3s Loss: 0.09 Acc: 98.889%
+
+[Train] Epoch: 17/30 batch: 90/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 110/130 time: 7.2s Loss: 0.37 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 120/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Evaluate] Acc: 94.097%
+
+[Train] Epoch: 18/30 batch: 0/130 time: 14.1s Loss: 0.07 Acc: 95.556%
+
+[Train] Epoch: 18/30 batch: 10/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 20/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 30/130 time: 7.2s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 40/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 70/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 80/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 90/130 time: 7.2s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 100/130 time: 7.2s Loss: 0.25 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 110/130 time: 7.2s Loss: 0.07 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 120/130 time: 7.3s Loss: 0.02 Acc: 98.889%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 19/30 batch: 0/130 time: 14.3s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 10/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 20/130 time: 7.2s Loss: 0.27 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 30/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 40/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 50/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 70/130 time: 7.2s Loss: 0.45 Acc: 95.556%
+
+[Train] Epoch: 19/30 batch: 80/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 90/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 100/130 time: 7.2s Loss: 0.01 Acc: 95.556%
+
+[Train] Epoch: 19/30 batch: 110/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 120/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Evaluate] Acc: 95.139%
+saved
+
+[Train] Epoch: 20/30 batch: 0/130 time: 14.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 10/130 time: 7.2s Loss: 0.07 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 20/130 time: 7.3s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 30/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 40/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 50/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 70/130 time: 7.2s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 80/130 time: 7.2s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 90/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 100/130 time: 7.2s Loss: 0.49 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 110/130 time: 7.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 120/130 time: 7.2s Loss: 0.06 Acc: 95.556%
+
+[Evaluate] Acc: 96.181%
+saved
+
+[Train] Epoch: 21/30 batch: 0/130 time: 14.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 10/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 20/130 time: 7.3s Loss: 0.12 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 30/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 40/130 time: 7.2s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 50/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 60/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 70/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 80/130 time: 7.2s Loss: 0.07 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 90/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 120/130 time: 7.2s Loss: 0.39 Acc: 97.778%
+
+[Evaluate] Acc: 96.528%
+saved
+
+[Train] Epoch: 22/30 batch: 0/130 time: 14.3s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 10/130 time: 7.2s Loss: 0.26 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 20/130 time: 7.3s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 30/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 40/130 time: 7.2s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 50/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 60/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 80/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 90/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 110/130 time: 7.2s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Evaluate] Acc: 94.097%
+
+[Train] Epoch: 23/30 batch: 0/130 time: 14.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 10/130 time: 7.3s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 20/130 time: 7.2s Loss: 0.15 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 30/130 time: 7.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 40/130 time: 7.2s Loss: 0.30 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 50/130 time: 7.2s Loss: 0.58 Acc: 95.556%
+
+[Train] Epoch: 23/30 batch: 60/130 time: 7.2s Loss: 0.10 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 70/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 80/130 time: 7.2s Loss: 0.03 Acc: 95.556%
+
+[Train] Epoch: 23/30 batch: 90/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 100/130 time: 7.2s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 110/130 time: 7.3s Loss: 0.12 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 120/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Evaluate] Acc: 95.486%
+saved
+
+[Train] Epoch: 24/30 batch: 0/130 time: 14.4s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 10/130 time: 7.3s Loss: 0.01 Acc: 95.556%
+
+[Train] Epoch: 24/30 batch: 20/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 30/130 time: 7.2s Loss: 0.12 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 40/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 50/130 time: 7.2s Loss: 0.25 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 60/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 24/30 batch: 70/130 time: 7.3s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 80/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 90/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 100/130 time: 7.2s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 110/130 time: 7.2s Loss: 0.00 Acc: 97.778%
+
+[Train] Epoch: 24/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Evaluate] Acc: 96.181%
+saved
+
+[Train] Epoch: 25/30 batch: 0/130 time: 14.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 10/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 20/130 time: 7.3s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 30/130 time: 7.2s Loss: 0.01 Acc: 95.556%
+
+[Train] Epoch: 25/30 batch: 40/130 time: 7.2s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 60/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 70/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 80/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 90/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 100/130 time: 7.3s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 110/130 time: 7.2s Loss: 0.24 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 120/130 time: 7.2s Loss: 0.11 Acc: 98.889%
+
+[Evaluate] Acc: 95.139%
+saved
+
+[Train] Epoch: 26/30 batch: 0/130 time: 14.3s Loss: 0.54 Acc: 96.667%
+
+[Train] Epoch: 26/30 batch: 10/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 20/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 30/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 40/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 50/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 60/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 70/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 80/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 90/130 time: 7.3s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 100/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 110/130 time: 7.2s Loss: 0.08 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 120/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 27/30 batch: 0/130 time: 14.3s Loss: 0.08 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 10/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 20/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 30/130 time: 7.2s Loss: 0.28 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 40/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 50/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 27/30 batch: 70/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 27/30 batch: 80/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 27/30 batch: 90/130 time: 7.2s Loss: 0.04 Acc: 92.222%
+
+[Train] Epoch: 27/30 batch: 100/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 110/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 28/30 batch: 0/130 time: 14.2s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 10/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 20/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 30/130 time: 7.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 28/30 batch: 40/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 50/130 time: 7.2s Loss: 0.11 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 60/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 80/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 90/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 110/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 120/130 time: 7.2s Loss: 0.06 Acc: 98.889%
+
+[Evaluate] Acc: 96.528%
+saved
+
+[Train] Epoch: 29/30 batch: 0/130 time: 14.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 10/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 20/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 30/130 time: 7.2s Loss: 0.00 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 40/130 time: 7.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 29/30 batch: 60/130 time: 7.2s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 70/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 80/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 90/130 time: 7.2s Loss: 0.14 Acc: 97.778%
+
+[Train] Epoch: 29/30 batch: 100/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 30/30 batch: 0/130 time: 14.3s Loss: 0.21 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 10/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 30/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 40/130 time: 7.3s Loss: 0.11 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 95.556%
+
+[Train] Epoch: 30/30 batch: 60/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 70/130 time: 7.2s Loss: 0.12 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 80/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 30/30 batch: 90/130 time: 7.2s Loss: 0.00 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 100/130 time: 7.2s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Evaluate] Acc: 95.486%
+saved
+
+
+参数 ->  {'lr': 0.0001, 'batch_size': 9, 'epochs': 30, 'loss': 'CE', 'dropout_mlp': 0.1, 'dropout_head': 0.1, 'optim': 'Adam', 'weight_decay': 0.0005}
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+---------------------------------Training---------------------------------
+
+[Train] Epoch: 1/30 batch: 0/130 time: 1.1s Loss: 2.39 Acc: 0.000%
+
+[Train] Epoch: 1/30 batch: 10/130 time: 7.2s Loss: 2.34 Acc: 15.556%
+
+[Train] Epoch: 1/30 batch: 20/130 time: 7.3s Loss: 2.30 Acc: 13.333%
+
+[Train] Epoch: 1/30 batch: 30/130 time: 7.2s Loss: 2.13 Acc: 26.667%
+
+[Train] Epoch: 1/30 batch: 40/130 time: 7.2s Loss: 2.23 Acc: 24.444%
+
+[Train] Epoch: 1/30 batch: 50/130 time: 7.2s Loss: 1.95 Acc: 14.444%
+
+[Train] Epoch: 1/30 batch: 60/130 time: 7.2s Loss: 1.89 Acc: 37.778%
+
+[Train] Epoch: 1/30 batch: 70/130 time: 7.2s Loss: 1.56 Acc: 27.778%
+
+[Train] Epoch: 1/30 batch: 80/130 time: 7.2s Loss: 2.02 Acc: 32.222%
+
+[Train] Epoch: 1/30 batch: 90/130 time: 7.2s Loss: 1.23 Acc: 40.000%
+
+[Train] Epoch: 1/30 batch: 100/130 time: 7.2s Loss: 1.37 Acc: 33.333%
+
+[Train] Epoch: 1/30 batch: 110/130 time: 7.2s Loss: 1.48 Acc: 37.778%
+
+[Train] Epoch: 1/30 batch: 120/130 time: 7.3s Loss: 1.30 Acc: 56.667%
+
+[Evaluate] Acc: 56.597%
+
+[Train] Epoch: 2/30 batch: 0/130 time: 14.3s Loss: 1.47 Acc: 44.444%
+
+[Train] Epoch: 2/30 batch: 10/130 time: 7.2s Loss: 1.12 Acc: 50.000%
+
+[Train] Epoch: 2/30 batch: 20/130 time: 7.2s Loss: 1.20 Acc: 58.889%
+
+[Train] Epoch: 2/30 batch: 30/130 time: 7.2s Loss: 1.31 Acc: 62.222%
+
+[Train] Epoch: 2/30 batch: 40/130 time: 7.2s Loss: 0.85 Acc: 58.889%
+
+[Train] Epoch: 2/30 batch: 50/130 time: 7.2s Loss: 0.81 Acc: 63.333%
+
+[Train] Epoch: 2/30 batch: 60/130 time: 7.2s Loss: 1.30 Acc: 64.444%
+
+[Train] Epoch: 2/30 batch: 70/130 time: 7.2s Loss: 1.08 Acc: 65.556%
+
+[Train] Epoch: 2/30 batch: 80/130 time: 7.2s Loss: 0.90 Acc: 64.444%
+
+[Train] Epoch: 2/30 batch: 90/130 time: 7.3s Loss: 0.55 Acc: 65.556%
+
+[Train] Epoch: 2/30 batch: 100/130 time: 7.2s Loss: 0.60 Acc: 62.222%
+
+[Train] Epoch: 2/30 batch: 110/130 time: 7.2s Loss: 0.55 Acc: 64.444%
+
+[Train] Epoch: 2/30 batch: 120/130 time: 7.2s Loss: 0.89 Acc: 72.222%
+
+[Evaluate] Acc: 72.917%
+
+[Train] Epoch: 3/30 batch: 0/130 time: 14.2s Loss: 0.70 Acc: 75.556%
+
+[Train] Epoch: 3/30 batch: 10/130 time: 7.2s Loss: 1.30 Acc: 71.111%
+
+[Train] Epoch: 3/30 batch: 20/130 time: 7.2s Loss: 0.35 Acc: 74.444%
+
+[Train] Epoch: 3/30 batch: 30/130 time: 7.2s Loss: 1.13 Acc: 67.778%
+
+[Train] Epoch: 3/30 batch: 40/130 time: 7.2s Loss: 0.61 Acc: 67.778%
+
+[Train] Epoch: 3/30 batch: 50/130 time: 7.3s Loss: 0.62 Acc: 66.667%
+
+[Train] Epoch: 3/30 batch: 60/130 time: 7.2s Loss: 0.37 Acc: 74.444%
+
+[Train] Epoch: 3/30 batch: 70/130 time: 7.2s Loss: 0.39 Acc: 85.556%
+
+[Train] Epoch: 3/30 batch: 80/130 time: 7.2s Loss: 0.34 Acc: 80.000%
+
+[Train] Epoch: 3/30 batch: 90/130 time: 7.2s Loss: 0.31 Acc: 81.111%
+
+[Train] Epoch: 3/30 batch: 100/130 time: 7.2s Loss: 0.32 Acc: 77.778%
+
+[Train] Epoch: 3/30 batch: 110/130 time: 7.2s Loss: 0.41 Acc: 83.333%
+
+[Train] Epoch: 3/30 batch: 120/130 time: 7.2s Loss: 0.48 Acc: 68.889%
+
+[Evaluate] Acc: 77.083%
+
+[Train] Epoch: 4/30 batch: 0/130 time: 14.2s Loss: 0.40 Acc: 81.111%
+
+[Train] Epoch: 4/30 batch: 10/130 time: 7.3s Loss: 1.11 Acc: 76.667%
+
+[Train] Epoch: 4/30 batch: 20/130 time: 7.2s Loss: 0.52 Acc: 75.556%
+
+[Train] Epoch: 4/30 batch: 30/130 time: 7.2s Loss: 0.44 Acc: 84.444%
+
+[Train] Epoch: 4/30 batch: 40/130 time: 7.2s Loss: 0.48 Acc: 80.000%
+
+[Train] Epoch: 4/30 batch: 50/130 time: 7.2s Loss: 0.28 Acc: 75.556%
+
+[Train] Epoch: 4/30 batch: 60/130 time: 7.2s Loss: 0.27 Acc: 83.333%
+
+[Train] Epoch: 4/30 batch: 70/130 time: 7.2s Loss: 0.56 Acc: 83.333%
+
+[Train] Epoch: 4/30 batch: 80/130 time: 7.2s Loss: 0.44 Acc: 78.889%
+
+[Train] Epoch: 4/30 batch: 90/130 time: 7.2s Loss: 0.32 Acc: 81.111%
+
+[Train] Epoch: 4/30 batch: 100/130 time: 7.2s Loss: 0.65 Acc: 81.111%
+
+[Train] Epoch: 4/30 batch: 110/130 time: 7.2s Loss: 0.83 Acc: 75.556%
+
+[Train] Epoch: 4/30 batch: 120/130 time: 7.2s Loss: 0.23 Acc: 82.222%
+
+[Evaluate] Acc: 79.861%
+
+[Train] Epoch: 5/30 batch: 0/130 time: 14.2s Loss: 0.41 Acc: 86.667%
+
+[Train] Epoch: 5/30 batch: 10/130 time: 7.2s Loss: 0.29 Acc: 74.444%
+
+[Train] Epoch: 5/30 batch: 20/130 time: 7.2s Loss: 0.31 Acc: 82.222%
+
+[Train] Epoch: 5/30 batch: 30/130 time: 7.2s Loss: 0.23 Acc: 84.444%
+
+[Train] Epoch: 5/30 batch: 40/130 time: 7.2s Loss: 0.34 Acc: 82.222%
+
+[Train] Epoch: 5/30 batch: 50/130 time: 7.2s Loss: 0.49 Acc: 85.556%
+
+[Train] Epoch: 5/30 batch: 60/130 time: 7.2s Loss: 0.62 Acc: 78.889%
+
+[Train] Epoch: 5/30 batch: 70/130 time: 7.2s Loss: 0.23 Acc: 81.111%
+
+[Train] Epoch: 5/30 batch: 80/130 time: 7.2s Loss: 0.46 Acc: 73.333%
+
+[Train] Epoch: 5/30 batch: 90/130 time: 7.2s Loss: 0.21 Acc: 87.778%
+
+[Train] Epoch: 5/30 batch: 100/130 time: 7.2s Loss: 0.38 Acc: 82.222%
+
+[Train] Epoch: 5/30 batch: 110/130 time: 7.2s Loss: 0.26 Acc: 83.333%
+
+[Train] Epoch: 5/30 batch: 120/130 time: 7.2s Loss: 0.27 Acc: 74.444%
+
+[Evaluate] Acc: 79.514%
+
+[Train] Epoch: 6/30 batch: 0/130 time: 14.2s Loss: 0.21 Acc: 85.556%
+
+[Train] Epoch: 6/30 batch: 10/130 time: 7.2s Loss: 0.53 Acc: 88.889%
+
+[Train] Epoch: 6/30 batch: 20/130 time: 7.3s Loss: 0.38 Acc: 75.556%
+
+[Train] Epoch: 6/30 batch: 30/130 time: 7.2s Loss: 0.34 Acc: 77.778%
+
+[Train] Epoch: 6/30 batch: 40/130 time: 7.2s Loss: 0.74 Acc: 80.000%
+
+[Train] Epoch: 6/30 batch: 50/130 time: 7.2s Loss: 0.78 Acc: 78.889%
+
+[Train] Epoch: 6/30 batch: 60/130 time: 7.2s Loss: 0.43 Acc: 82.222%
+
+[Train] Epoch: 6/30 batch: 70/130 time: 7.2s Loss: 0.31 Acc: 88.889%
+
+[Train] Epoch: 6/30 batch: 80/130 time: 7.2s Loss: 0.49 Acc: 90.000%
+
+[Train] Epoch: 6/30 batch: 90/130 time: 7.2s Loss: 0.47 Acc: 81.111%
+
+[Train] Epoch: 6/30 batch: 100/130 time: 7.2s Loss: 0.35 Acc: 88.889%
+
+[Train] Epoch: 6/30 batch: 110/130 time: 7.3s Loss: 0.51 Acc: 75.556%
+
+[Train] Epoch: 6/30 batch: 120/130 time: 7.2s Loss: 0.34 Acc: 73.333%
+
+[Evaluate] Acc: 80.556%
+
+[Train] Epoch: 7/30 batch: 0/130 time: 14.2s Loss: 0.70 Acc: 83.333%
+
+[Train] Epoch: 7/30 batch: 10/130 time: 7.2s Loss: 0.30 Acc: 84.444%
+
+[Train] Epoch: 7/30 batch: 20/130 time: 7.2s Loss: 0.36 Acc: 81.111%
+
+[Train] Epoch: 7/30 batch: 30/130 time: 7.2s Loss: 0.36 Acc: 90.000%
+
+[Train] Epoch: 7/30 batch: 40/130 time: 7.2s Loss: 0.36 Acc: 85.556%
+
+[Train] Epoch: 7/30 batch: 50/130 time: 7.2s Loss: 0.28 Acc: 88.889%
+
+[Train] Epoch: 7/30 batch: 60/130 time: 7.2s Loss: 0.18 Acc: 83.333%
+
+[Train] Epoch: 7/30 batch: 70/130 time: 7.2s Loss: 0.22 Acc: 90.000%
+
+[Train] Epoch: 7/30 batch: 80/130 time: 7.3s Loss: 0.52 Acc: 83.333%
+
+[Train] Epoch: 7/30 batch: 90/130 time: 7.2s Loss: 0.21 Acc: 84.444%
+
+[Train] Epoch: 7/30 batch: 100/130 time: 7.2s Loss: 0.37 Acc: 90.000%
+
+[Train] Epoch: 7/30 batch: 110/130 time: 7.2s Loss: 0.61 Acc: 76.667%
+
+[Train] Epoch: 7/30 batch: 120/130 time: 7.2s Loss: 0.53 Acc: 82.222%
+
+[Evaluate] Acc: 80.556%
+
+[Train] Epoch: 8/30 batch: 0/130 time: 14.2s Loss: 0.28 Acc: 84.444%
+
+[Train] Epoch: 8/30 batch: 10/130 time: 7.2s Loss: 0.15 Acc: 84.444%
+
+[Train] Epoch: 8/30 batch: 20/130 time: 7.2s Loss: 0.24 Acc: 88.889%
+
+[Train] Epoch: 8/30 batch: 30/130 time: 7.2s Loss: 0.24 Acc: 82.222%
+
+[Train] Epoch: 8/30 batch: 40/130 time: 7.3s Loss: 0.49 Acc: 84.444%
+
+[Train] Epoch: 8/30 batch: 50/130 time: 7.2s Loss: 0.19 Acc: 81.111%
+
+[Train] Epoch: 8/30 batch: 60/130 time: 7.2s Loss: 0.29 Acc: 88.889%
+
+[Train] Epoch: 8/30 batch: 70/130 time: 7.2s Loss: 0.25 Acc: 88.889%
+
+[Train] Epoch: 8/30 batch: 80/130 time: 7.2s Loss: 0.21 Acc: 82.222%
+
+[Train] Epoch: 8/30 batch: 90/130 time: 7.2s Loss: 0.21 Acc: 85.556%
+
+[Train] Epoch: 8/30 batch: 100/130 time: 7.2s Loss: 0.18 Acc: 86.667%
+
+[Train] Epoch: 8/30 batch: 110/130 time: 7.2s Loss: 0.20 Acc: 83.333%
+
+[Train] Epoch: 8/30 batch: 120/130 time: 7.2s Loss: 0.13 Acc: 83.333%
+
+[Evaluate] Acc: 83.333%
+
+[Train] Epoch: 9/30 batch: 0/130 time: 14.2s Loss: 0.50 Acc: 80.000%
+
+[Train] Epoch: 9/30 batch: 10/130 time: 7.2s Loss: 0.16 Acc: 87.778%
+
+[Train] Epoch: 9/30 batch: 20/130 time: 7.2s Loss: 0.51 Acc: 81.111%
+
+[Train] Epoch: 9/30 batch: 30/130 time: 7.2s Loss: 0.24 Acc: 90.000%
+
+[Train] Epoch: 9/30 batch: 40/130 time: 7.2s Loss: 0.24 Acc: 78.889%
+
+[Train] Epoch: 9/30 batch: 50/130 time: 7.2s Loss: 0.34 Acc: 83.333%
+
+[Train] Epoch: 9/30 batch: 60/130 time: 7.2s Loss: 0.17 Acc: 85.556%
+
+[Train] Epoch: 9/30 batch: 70/130 time: 7.2s Loss: 0.21 Acc: 86.667%
+
+[Train] Epoch: 9/30 batch: 80/130 time: 7.2s Loss: 0.29 Acc: 82.222%
+
+[Train] Epoch: 9/30 batch: 90/130 time: 7.2s Loss: 0.31 Acc: 84.444%
+
+[Train] Epoch: 9/30 batch: 100/130 time: 7.2s Loss: 0.47 Acc: 82.222%
+
+[Train] Epoch: 9/30 batch: 110/130 time: 7.2s Loss: 0.29 Acc: 82.222%
+
+[Train] Epoch: 9/30 batch: 120/130 time: 7.2s Loss: 0.27 Acc: 83.333%
+
+[Evaluate] Acc: 85.764%
+
+[Train] Epoch: 10/30 batch: 0/130 time: 14.2s Loss: 0.20 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 10/130 time: 7.2s Loss: 0.23 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 20/130 time: 7.2s Loss: 0.34 Acc: 83.333%
+
+[Train] Epoch: 10/30 batch: 30/130 time: 7.2s Loss: 0.19 Acc: 91.111%
+
+[Train] Epoch: 10/30 batch: 40/130 time: 7.2s Loss: 0.30 Acc: 85.556%
+
+[Train] Epoch: 10/30 batch: 50/130 time: 7.2s Loss: 0.34 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 60/130 time: 7.2s Loss: 0.07 Acc: 91.111%
+
+[Train] Epoch: 10/30 batch: 70/130 time: 7.2s Loss: 0.21 Acc: 86.667%
+
+[Train] Epoch: 10/30 batch: 80/130 time: 7.2s Loss: 0.23 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 90/130 time: 7.2s Loss: 0.45 Acc: 84.444%
+
+[Train] Epoch: 10/30 batch: 100/130 time: 7.2s Loss: 0.18 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 110/130 time: 7.2s Loss: 0.25 Acc: 85.556%
+
+[Train] Epoch: 10/30 batch: 120/130 time: 7.2s Loss: 0.47 Acc: 83.333%
+
+[Evaluate] Acc: 87.500%
+
+[Train] Epoch: 11/30 batch: 0/130 time: 14.2s Loss: 0.24 Acc: 87.778%
+
+[Train] Epoch: 11/30 batch: 10/130 time: 7.3s Loss: 0.16 Acc: 88.889%
+
+[Train] Epoch: 11/30 batch: 20/130 time: 7.2s Loss: 0.30 Acc: 90.000%
+
+[Train] Epoch: 11/30 batch: 30/130 time: 7.2s Loss: 0.17 Acc: 84.444%
+
+[Train] Epoch: 11/30 batch: 40/130 time: 7.2s Loss: 0.48 Acc: 88.889%
+
+[Train] Epoch: 11/30 batch: 50/130 time: 7.2s Loss: 0.08 Acc: 88.889%
+
+[Train] Epoch: 11/30 batch: 60/130 time: 7.2s Loss: 0.29 Acc: 94.444%
+
+[Train] Epoch: 11/30 batch: 70/130 time: 7.2s Loss: 0.24 Acc: 90.000%
+
+[Train] Epoch: 11/30 batch: 80/130 time: 7.2s Loss: 0.20 Acc: 87.778%
+
+[Train] Epoch: 11/30 batch: 90/130 time: 7.2s Loss: 0.22 Acc: 92.222%
+
+[Train] Epoch: 11/30 batch: 100/130 time: 7.3s Loss: 0.40 Acc: 86.667%
+
+[Train] Epoch: 11/30 batch: 110/130 time: 7.2s Loss: 0.35 Acc: 86.667%
+
+[Train] Epoch: 11/30 batch: 120/130 time: 7.2s Loss: 0.24 Acc: 87.778%
+
+[Evaluate] Acc: 87.500%
+
+[Train] Epoch: 12/30 batch: 0/130 time: 14.2s Loss: 0.14 Acc: 87.778%
+
+[Train] Epoch: 12/30 batch: 10/130 time: 7.2s Loss: 0.17 Acc: 91.111%
+
+[Train] Epoch: 12/30 batch: 20/130 time: 7.2s Loss: 0.04 Acc: 90.000%
+
+[Train] Epoch: 12/30 batch: 30/130 time: 7.2s Loss: 0.21 Acc: 87.778%
+
+[Train] Epoch: 12/30 batch: 40/130 time: 7.2s Loss: 0.10 Acc: 91.111%
+
+[Train] Epoch: 12/30 batch: 50/130 time: 7.2s Loss: 0.17 Acc: 87.778%
+
+[Train] Epoch: 12/30 batch: 60/130 time: 7.3s Loss: 0.17 Acc: 93.333%
+
+[Train] Epoch: 12/30 batch: 70/130 time: 7.2s Loss: 0.17 Acc: 84.444%
+
+[Train] Epoch: 12/30 batch: 80/130 time: 7.2s Loss: 0.05 Acc: 93.333%
+
+[Train] Epoch: 12/30 batch: 90/130 time: 7.2s Loss: 0.04 Acc: 91.111%
+
+[Train] Epoch: 12/30 batch: 100/130 time: 7.2s Loss: 0.21 Acc: 88.889%
+
+[Train] Epoch: 12/30 batch: 110/130 time: 7.2s Loss: 0.20 Acc: 92.222%
+
+[Train] Epoch: 12/30 batch: 120/130 time: 7.2s Loss: 0.14 Acc: 92.222%
+
+[Evaluate] Acc: 88.194%
+
+[Train] Epoch: 13/30 batch: 0/130 time: 14.2s Loss: 0.07 Acc: 91.111%
+
+[Train] Epoch: 13/30 batch: 10/130 time: 7.2s Loss: 0.16 Acc: 95.556%
+
+[Train] Epoch: 13/30 batch: 20/130 time: 7.3s Loss: 0.41 Acc: 90.000%
+
+[Train] Epoch: 13/30 batch: 30/130 time: 7.2s Loss: 0.09 Acc: 95.556%
+
+[Train] Epoch: 13/30 batch: 40/130 time: 7.2s Loss: 0.14 Acc: 91.111%
+
+[Train] Epoch: 13/30 batch: 50/130 time: 7.2s Loss: 0.20 Acc: 92.222%
+
+[Train] Epoch: 13/30 batch: 60/130 time: 7.2s Loss: 0.11 Acc: 91.111%
+
+[Train] Epoch: 13/30 batch: 70/130 time: 7.2s Loss: 0.11 Acc: 92.222%
+
+[Train] Epoch: 13/30 batch: 80/130 time: 7.2s Loss: 0.24 Acc: 92.222%
+
+[Train] Epoch: 13/30 batch: 90/130 time: 7.2s Loss: 0.08 Acc: 94.444%
+
+[Train] Epoch: 13/30 batch: 100/130 time: 7.2s Loss: 0.07 Acc: 94.444%
+
+[Train] Epoch: 13/30 batch: 110/130 time: 7.2s Loss: 0.13 Acc: 91.111%
+
+[Train] Epoch: 13/30 batch: 120/130 time: 7.2s Loss: 0.27 Acc: 95.556%
+
+[Evaluate] Acc: 93.056%
+
+[Train] Epoch: 14/30 batch: 0/130 time: 14.2s Loss: 0.18 Acc: 92.222%
+
+[Train] Epoch: 14/30 batch: 10/130 time: 7.2s Loss: 0.22 Acc: 94.444%
+
+[Train] Epoch: 14/30 batch: 20/130 time: 7.2s Loss: 0.04 Acc: 95.556%
+
+[Train] Epoch: 14/30 batch: 30/130 time: 7.2s Loss: 0.09 Acc: 91.111%
+
+[Train] Epoch: 14/30 batch: 40/130 time: 7.2s Loss: 0.20 Acc: 95.556%
+
+[Train] Epoch: 14/30 batch: 50/130 time: 7.2s Loss: 0.12 Acc: 94.444%
+
+[Train] Epoch: 14/30 batch: 60/130 time: 7.2s Loss: 0.13 Acc: 95.556%
+
+[Train] Epoch: 14/30 batch: 70/130 time: 7.3s Loss: 0.07 Acc: 95.556%
+
+[Train] Epoch: 14/30 batch: 80/130 time: 7.2s Loss: 0.27 Acc: 94.444%
+
+[Train] Epoch: 14/30 batch: 90/130 time: 7.2s Loss: 0.06 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 100/130 time: 7.2s Loss: 0.10 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 14/30 batch: 120/130 time: 7.2s Loss: 0.20 Acc: 97.778%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 15/30 batch: 0/130 time: 14.3s Loss: 0.23 Acc: 92.222%
+
+[Train] Epoch: 15/30 batch: 10/130 time: 7.2s Loss: 0.19 Acc: 95.556%
+
+[Train] Epoch: 15/30 batch: 20/130 time: 7.2s Loss: 0.14 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 30/130 time: 7.3s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 15/30 batch: 40/130 time: 7.2s Loss: 0.11 Acc: 98.889%
+
+[Train] Epoch: 15/30 batch: 50/130 time: 7.2s Loss: 0.07 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 60/130 time: 7.2s Loss: 0.09 Acc: 100.000%
+
+[Train] Epoch: 15/30 batch: 70/130 time: 7.2s Loss: 0.04 Acc: 95.556%
+
+[Train] Epoch: 15/30 batch: 80/130 time: 7.2s Loss: 0.16 Acc: 98.889%
+
+[Train] Epoch: 15/30 batch: 90/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 15/30 batch: 100/130 time: 7.3s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 110/130 time: 7.2s Loss: 0.09 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 120/130 time: 7.2s Loss: 0.20 Acc: 98.889%
+
+[Evaluate] Acc: 95.139%
+saved
+
+[Train] Epoch: 16/30 batch: 0/130 time: 14.3s Loss: 0.12 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 10/130 time: 7.2s Loss: 0.21 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 20/130 time: 7.2s Loss: 0.15 Acc: 97.778%
+
+[Train] Epoch: 16/30 batch: 30/130 time: 7.2s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 40/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 16/30 batch: 50/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 16/30 batch: 60/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 70/130 time: 7.2s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 16/30 batch: 80/130 time: 7.2s Loss: 0.06 Acc: 96.667%
+
+[Train] Epoch: 16/30 batch: 90/130 time: 7.4s Loss: 0.09 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 92.222%
+
+[Train] Epoch: 16/30 batch: 110/130 time: 7.2s Loss: 0.10 Acc: 93.333%
+
+[Train] Epoch: 16/30 batch: 120/130 time: 7.2s Loss: 0.04 Acc: 93.333%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 17/30 batch: 0/130 time: 14.3s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 10/130 time: 7.2s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 20/130 time: 7.2s Loss: 0.12 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 30/130 time: 7.2s Loss: 0.07 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 40/130 time: 7.2s Loss: 0.10 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 50/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 17/30 batch: 60/130 time: 7.2s Loss: 0.17 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 70/130 time: 7.2s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 80/130 time: 7.2s Loss: 0.11 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 90/130 time: 7.2s Loss: 0.15 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 100/130 time: 7.2s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 110/130 time: 7.2s Loss: 0.22 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Evaluate] Acc: 96.181%
+saved
+
+[Train] Epoch: 18/30 batch: 0/130 time: 14.3s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 10/130 time: 7.3s Loss: 0.11 Acc: 95.556%
+
+[Train] Epoch: 18/30 batch: 20/130 time: 7.2s Loss: 0.26 Acc: 95.556%
+
+[Train] Epoch: 18/30 batch: 30/130 time: 7.2s Loss: 0.07 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 40/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 50/130 time: 7.2s Loss: 0.19 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 60/130 time: 7.2s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 18/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 80/130 time: 7.2s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 90/130 time: 7.2s Loss: 0.18 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 100/130 time: 7.3s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 110/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 120/130 time: 7.2s Loss: 0.09 Acc: 97.778%
+
+[Evaluate] Acc: 96.528%
+saved
+
+[Train] Epoch: 19/30 batch: 0/130 time: 14.3s Loss: 0.10 Acc: 97.778%
+
+[Train] Epoch: 19/30 batch: 10/130 time: 7.2s Loss: 0.49 Acc: 97.778%
+
+[Train] Epoch: 19/30 batch: 20/130 time: 7.2s Loss: 0.14 Acc: 96.667%
+
+[Train] Epoch: 19/30 batch: 30/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 40/130 time: 7.2s Loss: 0.24 Acc: 96.667%
+
+[Train] Epoch: 19/30 batch: 50/130 time: 7.2s Loss: 0.16 Acc: 97.778%
+
+[Train] Epoch: 19/30 batch: 60/130 time: 7.4s Loss: 0.70 Acc: 95.556%
+
+[Train] Epoch: 19/30 batch: 70/130 time: 7.3s Loss: 0.19 Acc: 97.778%
+
+[Train] Epoch: 19/30 batch: 80/130 time: 7.3s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 90/130 time: 7.3s Loss: 0.09 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 100/130 time: 7.2s Loss: 0.20 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 110/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Train] Epoch: 19/30 batch: 120/130 time: 7.2s Loss: 0.07 Acc: 97.778%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 20/30 batch: 0/130 time: 14.4s Loss: 0.10 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 10/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 20/130 time: 7.4s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 30/130 time: 7.2s Loss: 0.21 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 40/130 time: 7.2s Loss: 0.35 Acc: 95.556%
+
+[Train] Epoch: 20/30 batch: 50/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 60/130 time: 7.2s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 70/130 time: 7.2s Loss: 0.11 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 80/130 time: 7.2s Loss: 0.12 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 90/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 100/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 110/130 time: 7.2s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 120/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Evaluate] Acc: 96.181%
+saved
+
+[Train] Epoch: 21/30 batch: 0/130 time: 14.3s Loss: 0.63 Acc: 95.556%
+
+[Train] Epoch: 21/30 batch: 10/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 20/130 time: 7.2s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 30/130 time: 7.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 21/30 batch: 40/130 time: 7.2s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 50/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 70/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 80/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 90/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 100/130 time: 7.2s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 110/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 120/130 time: 7.2s Loss: 0.06 Acc: 95.556%
+
+[Evaluate] Acc: 96.528%
+saved
+
+[Train] Epoch: 22/30 batch: 0/130 time: 14.3s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 10/130 time: 7.2s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 20/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 30/130 time: 7.4s Loss: 0.09 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 40/130 time: 7.2s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 50/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 60/130 time: 7.2s Loss: 0.14 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 70/130 time: 7.2s Loss: 0.11 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 80/130 time: 7.2s Loss: 0.33 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 90/130 time: 7.2s Loss: 0.20 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 100/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 110/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 120/130 time: 7.3s Loss: 0.02 Acc: 100.000%
+
+[Evaluate] Acc: 96.875%
+saved
+
+[Train] Epoch: 23/30 batch: 0/130 time: 14.3s Loss: 0.08 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 10/130 time: 7.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 23/30 batch: 20/130 time: 7.2s Loss: 0.05 Acc: 94.444%
+
+[Train] Epoch: 23/30 batch: 30/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 40/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 50/130 time: 7.2s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 60/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 80/130 time: 7.3s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 90/130 time: 7.2s Loss: 0.09 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 100/130 time: 7.2s Loss: 0.08 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 110/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 120/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Evaluate] Acc: 96.528%
+saved
+
+[Train] Epoch: 24/30 batch: 0/130 time: 14.3s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 10/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 24/30 batch: 20/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 30/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 40/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 50/130 time: 7.2s Loss: 0.14 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 70/130 time: 7.2s Loss: 0.09 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 80/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 90/130 time: 7.2s Loss: 0.09 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 100/130 time: 7.2s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 110/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 96.667%
+
+[Evaluate] Acc: 97.222%
+saved
+
+[Train] Epoch: 25/30 batch: 0/130 time: 14.3s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 10/130 time: 7.2s Loss: 0.22 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 20/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 30/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 40/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 60/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 80/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 90/130 time: 7.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 100/130 time: 7.2s Loss: 0.11 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 110/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 26/30 batch: 0/130 time: 14.4s Loss: 0.25 Acc: 96.667%
+
+[Train] Epoch: 26/30 batch: 10/130 time: 7.2s Loss: 0.00 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 30/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 40/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 50/130 time: 7.4s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 60/130 time: 7.3s Loss: 0.24 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 70/130 time: 7.2s Loss: 0.14 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 80/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 90/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 120/130 time: 7.2s Loss: 0.02 Acc: 96.667%
+
+[Evaluate] Acc: 96.181%
+saved
+
+[Train] Epoch: 27/30 batch: 0/130 time: 14.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 10/130 time: 7.3s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 27/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 30/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 40/130 time: 7.2s Loss: 0.03 Acc: 95.556%
+
+[Train] Epoch: 27/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 60/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 80/130 time: 7.2s Loss: 0.09 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 90/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 100/130 time: 7.3s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 110/130 time: 7.2s Loss: 0.06 Acc: 97.778%
+
+[Train] Epoch: 27/30 batch: 120/130 time: 7.2s Loss: 0.10 Acc: 98.889%
+
+[Evaluate] Acc: 96.181%
+saved
+
+[Train] Epoch: 28/30 batch: 0/130 time: 14.3s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 10/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 28/30 batch: 30/130 time: 7.2s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 40/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 50/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 28/30 batch: 60/130 time: 7.2s Loss: 0.30 Acc: 97.778%
+
+[Train] Epoch: 28/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 80/130 time: 7.2s Loss: 0.28 Acc: 97.778%
+
+[Train] Epoch: 28/30 batch: 90/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 100/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 110/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Evaluate] Acc: 96.528%
+saved
+
+[Train] Epoch: 29/30 batch: 0/130 time: 14.3s Loss: 0.00 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 10/130 time: 7.2s Loss: 0.06 Acc: 97.778%
+
+[Train] Epoch: 29/30 batch: 20/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 30/130 time: 7.2s Loss: 0.14 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 40/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 29/30 batch: 50/130 time: 7.2s Loss: 0.09 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 60/130 time: 7.2s Loss: 0.17 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 70/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 80/130 time: 7.2s Loss: 0.11 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 90/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 29/30 batch: 100/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 110/130 time: 7.3s Loss: 0.19 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 120/130 time: 7.2s Loss: 0.11 Acc: 98.889%
+
+[Evaluate] Acc: 97.569%
+saved
+
+[Train] Epoch: 30/30 batch: 0/130 time: 14.3s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 10/130 time: 7.2s Loss: 0.10 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 30/130 time: 7.2s Loss: 0.18 Acc: 96.667%
+
+[Train] Epoch: 30/30 batch: 40/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 50/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 60/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 70/130 time: 7.4s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 80/130 time: 7.2s Loss: 0.15 Acc: 96.667%
+
+[Train] Epoch: 30/30 batch: 90/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 100/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 110/130 time: 7.2s Loss: 0.18 Acc: 97.778%
+
+[Train] Epoch: 30/30 batch: 120/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Evaluate] Acc: 96.181%
+saved
+
+
+参数 ->  {'lr': 0.0001, 'batch_size': 6, 'epochs': 30, 'loss': 'CE', 'dropout_mlp': 0.1, 'dropout_head': 0.1, 'optim': 'AdamW', 'weight_decay': 0.0005}
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+---------------------------------Training---------------------------------
+
+[Train] Epoch: 1/30 batch: 0/196 time: 1.0s Loss: 2.41 Acc: 33.333%
+
+[Train] Epoch: 1/30 batch: 10/196 time: 5.2s Loss: 2.40 Acc: 15.000%
+
+[Train] Epoch: 1/30 batch: 20/196 time: 5.3s Loss: 2.47 Acc: 13.333%
+
+[Train] Epoch: 1/30 batch: 30/196 time: 5.2s Loss: 2.48 Acc: 33.333%
+
+[Train] Epoch: 1/30 batch: 40/196 time: 5.2s Loss: 2.49 Acc: 13.333%
+
+[Train] Epoch: 1/30 batch: 50/196 time: 5.2s Loss: 2.30 Acc: 23.333%
+
+[Train] Epoch: 1/30 batch: 60/196 time: 5.2s Loss: 1.81 Acc: 20.000%
+
+[Train] Epoch: 1/30 batch: 70/196 time: 5.2s Loss: 2.17 Acc: 30.000%
+
+[Train] Epoch: 1/30 batch: 80/196 time: 5.2s Loss: 1.85 Acc: 33.333%
+
+[Train] Epoch: 1/30 batch: 90/196 time: 5.2s Loss: 1.20 Acc: 50.000%
+
+[Train] Epoch: 1/30 batch: 100/196 time: 5.3s Loss: 1.78 Acc: 30.000%
+
+[Train] Epoch: 1/30 batch: 110/196 time: 5.2s Loss: 1.60 Acc: 36.667%
+
+[Train] Epoch: 1/30 batch: 120/196 time: 5.2s Loss: 1.44 Acc: 31.667%
+
+[Train] Epoch: 1/30 batch: 130/196 time: 5.2s Loss: 1.69 Acc: 46.667%
+
+[Train] Epoch: 1/30 batch: 140/196 time: 5.1s Loss: 1.08 Acc: 51.667%
+
+[Train] Epoch: 1/30 batch: 150/196 time: 5.2s Loss: 1.43 Acc: 36.667%
+
+[Train] Epoch: 1/30 batch: 160/196 time: 5.2s Loss: 2.00 Acc: 36.667%
+
+[Train] Epoch: 1/30 batch: 170/196 time: 5.2s Loss: 1.24 Acc: 41.667%
+
+[Train] Epoch: 1/30 batch: 180/196 time: 5.2s Loss: 1.47 Acc: 45.000%
+
+[Train] Epoch: 1/30 batch: 190/196 time: 5.2s Loss: 1.59 Acc: 56.667%
+
+[Evaluate] Acc: 55.208%
+
+[Train] Epoch: 2/30 batch: 0/196 time: 10.9s Loss: 1.04 Acc: 63.889%
+
+[Train] Epoch: 2/30 batch: 10/196 time: 5.2s Loss: 1.43 Acc: 51.667%
+
+[Train] Epoch: 2/30 batch: 20/196 time: 5.2s Loss: 1.49 Acc: 58.333%
+
+[Train] Epoch: 2/30 batch: 30/196 time: 5.2s Loss: 0.77 Acc: 58.333%
+
+[Train] Epoch: 2/30 batch: 40/196 time: 5.1s Loss: 0.95 Acc: 58.333%
+
+[Train] Epoch: 2/30 batch: 50/196 time: 5.1s Loss: 1.09 Acc: 73.333%
+
+[Train] Epoch: 2/30 batch: 60/196 time: 5.1s Loss: 0.78 Acc: 53.333%
+
+[Train] Epoch: 2/30 batch: 70/196 time: 5.1s Loss: 1.30 Acc: 68.333%
+
+[Train] Epoch: 2/30 batch: 80/196 time: 5.3s Loss: 0.84 Acc: 70.000%
+
+[Train] Epoch: 2/30 batch: 90/196 time: 5.1s Loss: 0.60 Acc: 58.333%
+
+[Train] Epoch: 2/30 batch: 100/196 time: 5.1s Loss: 1.40 Acc: 60.000%
+
+[Train] Epoch: 2/30 batch: 110/196 time: 5.2s Loss: 1.05 Acc: 73.333%
+
+[Train] Epoch: 2/30 batch: 120/196 time: 5.2s Loss: 1.28 Acc: 75.000%
+
+[Train] Epoch: 2/30 batch: 130/196 time: 5.2s Loss: 0.55 Acc: 68.333%
+
+[Train] Epoch: 2/30 batch: 140/196 time: 5.2s Loss: 0.61 Acc: 70.000%
+
+[Train] Epoch: 2/30 batch: 150/196 time: 5.2s Loss: 0.56 Acc: 70.000%
+
+[Train] Epoch: 2/30 batch: 160/196 time: 5.2s Loss: 0.89 Acc: 65.000%
+
+[Train] Epoch: 2/30 batch: 170/196 time: 5.2s Loss: 0.65 Acc: 76.667%
+
+[Train] Epoch: 2/30 batch: 180/196 time: 5.2s Loss: 1.45 Acc: 63.333%
+
+[Train] Epoch: 2/30 batch: 190/196 time: 5.2s Loss: 0.55 Acc: 68.333%
+
+[Evaluate] Acc: 74.653%
+
+[Train] Epoch: 3/30 batch: 0/196 time: 11.1s Loss: 0.75 Acc: 63.889%
+
+[Train] Epoch: 3/30 batch: 10/196 time: 5.2s Loss: 0.50 Acc: 70.000%
+
+[Train] Epoch: 3/30 batch: 20/196 time: 5.2s Loss: 0.70 Acc: 63.333%
+
+[Train] Epoch: 3/30 batch: 30/196 time: 5.2s Loss: 0.55 Acc: 78.333%
+
+[Train] Epoch: 3/30 batch: 40/196 time: 5.2s Loss: 0.41 Acc: 78.333%
+
+[Train] Epoch: 3/30 batch: 50/196 time: 5.2s Loss: 0.49 Acc: 78.333%
+
+[Train] Epoch: 3/30 batch: 60/196 time: 5.2s Loss: 0.50 Acc: 68.333%
+
+[Train] Epoch: 3/30 batch: 70/196 time: 5.2s Loss: 0.49 Acc: 81.667%
+
+[Train] Epoch: 3/30 batch: 80/196 time: 5.2s Loss: 0.55 Acc: 80.000%
+
+[Train] Epoch: 3/30 batch: 90/196 time: 5.2s Loss: 1.16 Acc: 76.667%
+
+[Train] Epoch: 3/30 batch: 100/196 time: 5.3s Loss: 0.40 Acc: 76.667%
+
+[Train] Epoch: 3/30 batch: 110/196 time: 5.2s Loss: 0.54 Acc: 76.667%
+
+[Train] Epoch: 3/30 batch: 120/196 time: 5.2s Loss: 0.64 Acc: 71.667%
+
+[Train] Epoch: 3/30 batch: 130/196 time: 5.2s Loss: 0.22 Acc: 78.333%
+
+[Train] Epoch: 3/30 batch: 140/196 time: 5.2s Loss: 0.40 Acc: 75.000%
+
+[Train] Epoch: 3/30 batch: 150/196 time: 5.2s Loss: 0.29 Acc: 81.667%
+
+[Train] Epoch: 3/30 batch: 160/196 time: 5.2s Loss: 0.58 Acc: 83.333%
+
+[Train] Epoch: 3/30 batch: 170/196 time: 5.2s Loss: 0.21 Acc: 81.667%
+
+[Train] Epoch: 3/30 batch: 180/196 time: 5.2s Loss: 0.41 Acc: 85.000%
+
+[Train] Epoch: 3/30 batch: 190/196 time: 5.2s Loss: 0.33 Acc: 78.333%
+
+[Evaluate] Acc: 78.819%
+
+[Train] Epoch: 4/30 batch: 0/196 time: 10.9s Loss: 1.11 Acc: 69.444%
+
+[Train] Epoch: 4/30 batch: 10/196 time: 5.2s Loss: 0.22 Acc: 76.667%
+
+[Train] Epoch: 4/30 batch: 20/196 time: 5.2s Loss: 0.33 Acc: 76.667%
+
+[Train] Epoch: 4/30 batch: 30/196 time: 5.2s Loss: 0.54 Acc: 65.000%
+
+[Train] Epoch: 4/30 batch: 40/196 time: 5.2s Loss: 0.30 Acc: 86.667%
+
+[Train] Epoch: 4/30 batch: 50/196 time: 5.2s Loss: 0.54 Acc: 85.000%
+
+[Train] Epoch: 4/30 batch: 60/196 time: 5.2s Loss: 0.77 Acc: 83.333%
+
+[Train] Epoch: 4/30 batch: 70/196 time: 5.2s Loss: 0.49 Acc: 70.000%
+
+[Train] Epoch: 4/30 batch: 80/196 time: 5.2s Loss: 0.45 Acc: 68.333%
+
+[Train] Epoch: 4/30 batch: 90/196 time: 5.2s Loss: 0.22 Acc: 78.333%
+
+[Train] Epoch: 4/30 batch: 100/196 time: 5.2s Loss: 0.63 Acc: 68.333%
+
+[Train] Epoch: 4/30 batch: 110/196 time: 5.2s Loss: 0.57 Acc: 61.667%
+
+[Train] Epoch: 4/30 batch: 120/196 time: 5.2s Loss: 0.31 Acc: 83.333%
+
+[Train] Epoch: 4/30 batch: 130/196 time: 5.2s Loss: 0.25 Acc: 81.667%
+
+[Train] Epoch: 4/30 batch: 140/196 time: 5.2s Loss: 0.41 Acc: 78.333%
+
+[Train] Epoch: 4/30 batch: 150/196 time: 5.2s Loss: 0.48 Acc: 81.667%
+
+[Train] Epoch: 4/30 batch: 160/196 time: 5.3s Loss: 0.54 Acc: 85.000%
+
+[Train] Epoch: 4/30 batch: 170/196 time: 5.2s Loss: 0.25 Acc: 80.000%
+
+[Train] Epoch: 4/30 batch: 180/196 time: 5.2s Loss: 0.44 Acc: 86.667%
+
+[Train] Epoch: 4/30 batch: 190/196 time: 5.2s Loss: 0.14 Acc: 78.333%
+
+[Evaluate] Acc: 80.556%
+
+[Train] Epoch: 5/30 batch: 0/196 time: 11.0s Loss: 0.29 Acc: 83.333%
+
+[Train] Epoch: 5/30 batch: 10/196 time: 5.2s Loss: 0.61 Acc: 73.333%
+
+[Train] Epoch: 5/30 batch: 20/196 time: 5.2s Loss: 0.53 Acc: 85.000%
+
+[Train] Epoch: 5/30 batch: 30/196 time: 5.2s Loss: 0.09 Acc: 85.000%
+
+[Train] Epoch: 5/30 batch: 40/196 time: 5.2s Loss: 0.09 Acc: 86.667%
+
+[Train] Epoch: 5/30 batch: 50/196 time: 5.2s Loss: 0.64 Acc: 73.333%
+
+[Train] Epoch: 5/30 batch: 60/196 time: 5.2s Loss: 0.56 Acc: 76.667%
+
+[Train] Epoch: 5/30 batch: 70/196 time: 5.1s Loss: 0.34 Acc: 81.667%
+
+[Train] Epoch: 5/30 batch: 80/196 time: 5.1s Loss: 0.37 Acc: 83.333%
+
+[Train] Epoch: 5/30 batch: 90/196 time: 5.3s Loss: 0.20 Acc: 88.333%
+
+[Train] Epoch: 5/30 batch: 100/196 time: 5.1s Loss: 0.21 Acc: 85.000%
+
+[Train] Epoch: 5/30 batch: 110/196 time: 5.1s Loss: 0.55 Acc: 75.000%
+
+[Train] Epoch: 5/30 batch: 120/196 time: 5.1s Loss: 0.39 Acc: 76.667%
+
+[Train] Epoch: 5/30 batch: 130/196 time: 5.1s Loss: 0.26 Acc: 85.000%
+
+[Train] Epoch: 5/30 batch: 140/196 time: 5.1s Loss: 0.22 Acc: 76.667%
+
+[Train] Epoch: 5/30 batch: 150/196 time: 5.1s Loss: 0.25 Acc: 75.000%
+
+[Train] Epoch: 5/30 batch: 160/196 time: 5.1s Loss: 0.12 Acc: 75.000%
+
+[Train] Epoch: 5/30 batch: 170/196 time: 5.1s Loss: 1.02 Acc: 70.000%
+
+[Train] Epoch: 5/30 batch: 180/196 time: 5.1s Loss: 0.29 Acc: 86.667%
+
+[Train] Epoch: 5/30 batch: 190/196 time: 5.2s Loss: 0.12 Acc: 83.333%
+
+[Evaluate] Acc: 80.208%
+
+[Train] Epoch: 6/30 batch: 0/196 time: 11.0s Loss: 0.35 Acc: 80.556%
+
+[Train] Epoch: 6/30 batch: 10/196 time: 5.1s Loss: 0.76 Acc: 81.667%
+
+[Train] Epoch: 6/30 batch: 20/196 time: 5.1s Loss: 0.04 Acc: 88.333%
+
+[Train] Epoch: 6/30 batch: 30/196 time: 5.1s Loss: 0.16 Acc: 86.667%
+
+[Train] Epoch: 6/30 batch: 40/196 time: 5.1s Loss: 0.51 Acc: 75.000%
+
+[Train] Epoch: 6/30 batch: 50/196 time: 5.2s Loss: 0.30 Acc: 83.333%
+
+[Train] Epoch: 6/30 batch: 60/196 time: 5.2s Loss: 0.42 Acc: 78.333%
+
+[Train] Epoch: 6/30 batch: 70/196 time: 5.2s Loss: 0.37 Acc: 86.667%
+
+[Train] Epoch: 6/30 batch: 80/196 time: 5.1s Loss: 0.28 Acc: 85.000%
+
+[Train] Epoch: 6/30 batch: 90/196 time: 5.2s Loss: 0.26 Acc: 81.667%
+
+[Train] Epoch: 6/30 batch: 100/196 time: 5.2s Loss: 0.31 Acc: 70.000%
+
+[Train] Epoch: 6/30 batch: 110/196 time: 5.2s Loss: 0.13 Acc: 88.333%
+
+[Train] Epoch: 6/30 batch: 120/196 time: 5.2s Loss: 0.10 Acc: 85.000%
+
+[Train] Epoch: 6/30 batch: 130/196 time: 5.2s Loss: 0.39 Acc: 83.333%
+
+[Train] Epoch: 6/30 batch: 140/196 time: 5.2s Loss: 0.20 Acc: 80.000%
+
+[Train] Epoch: 6/30 batch: 150/196 time: 5.2s Loss: 0.30 Acc: 83.333%
+
+[Train] Epoch: 6/30 batch: 160/196 time: 5.2s Loss: 0.68 Acc: 78.333%
+
+[Train] Epoch: 6/30 batch: 170/196 time: 5.2s Loss: 0.28 Acc: 91.667%
+
+[Train] Epoch: 6/30 batch: 180/196 time: 5.2s Loss: 0.35 Acc: 90.000%
+
+[Train] Epoch: 6/30 batch: 190/196 time: 5.2s Loss: 0.07 Acc: 85.000%
+
+[Evaluate] Acc: 85.069%
+
+[Train] Epoch: 7/30 batch: 0/196 time: 11.0s Loss: 0.10 Acc: 80.556%
+
+[Train] Epoch: 7/30 batch: 10/196 time: 5.2s Loss: 0.20 Acc: 78.333%
+
+[Train] Epoch: 7/30 batch: 20/196 time: 5.2s Loss: 0.40 Acc: 75.000%
+
+[Train] Epoch: 7/30 batch: 30/196 time: 5.2s Loss: 0.40 Acc: 83.333%
+
+[Train] Epoch: 7/30 batch: 40/196 time: 5.2s Loss: 0.45 Acc: 76.667%
+
+[Train] Epoch: 7/30 batch: 50/196 time: 5.3s Loss: 0.14 Acc: 83.333%
+
+[Train] Epoch: 7/30 batch: 60/196 time: 5.2s Loss: 0.23 Acc: 80.000%
+
+[Train] Epoch: 7/30 batch: 70/196 time: 5.2s Loss: 0.28 Acc: 83.333%
+
+[Train] Epoch: 7/30 batch: 80/196 time: 5.2s Loss: 0.26 Acc: 80.000%
+
+[Train] Epoch: 7/30 batch: 90/196 time: 5.2s Loss: 0.40 Acc: 81.667%
+
+[Train] Epoch: 7/30 batch: 100/196 time: 5.2s Loss: 0.48 Acc: 86.667%
+
+[Train] Epoch: 7/30 batch: 110/196 time: 5.2s Loss: 0.25 Acc: 91.667%
+
+[Train] Epoch: 7/30 batch: 120/196 time: 5.2s Loss: 1.23 Acc: 76.667%
+
+[Train] Epoch: 7/30 batch: 130/196 time: 5.2s Loss: 0.31 Acc: 80.000%
+
+[Train] Epoch: 7/30 batch: 140/196 time: 5.2s Loss: 0.29 Acc: 81.667%
+
+[Train] Epoch: 7/30 batch: 150/196 time: 5.2s Loss: 0.31 Acc: 86.667%
+
+[Train] Epoch: 7/30 batch: 160/196 time: 5.2s Loss: 0.22 Acc: 91.667%
+
+[Train] Epoch: 7/30 batch: 170/196 time: 5.3s Loss: 0.28 Acc: 93.333%
+
+[Train] Epoch: 7/30 batch: 180/196 time: 5.2s Loss: 0.41 Acc: 88.333%
+
+[Train] Epoch: 7/30 batch: 190/196 time: 5.2s Loss: 0.29 Acc: 81.667%
+
+[Evaluate] Acc: 85.069%
+
+[Train] Epoch: 8/30 batch: 0/196 time: 11.0s Loss: 0.05 Acc: 91.667%
+
+[Train] Epoch: 8/30 batch: 10/196 time: 5.2s Loss: 0.36 Acc: 88.333%
+
+[Train] Epoch: 8/30 batch: 20/196 time: 5.2s Loss: 0.43 Acc: 81.667%
+
+[Train] Epoch: 8/30 batch: 30/196 time: 5.2s Loss: 0.55 Acc: 81.667%
+
+[Train] Epoch: 8/30 batch: 40/196 time: 5.2s Loss: 0.11 Acc: 83.333%
+
+[Train] Epoch: 8/30 batch: 50/196 time: 5.2s Loss: 0.16 Acc: 90.000%
+
+[Train] Epoch: 8/30 batch: 60/196 time: 5.2s Loss: 0.20 Acc: 86.667%
+
+[Train] Epoch: 8/30 batch: 70/196 time: 5.3s Loss: 0.27 Acc: 83.333%
+
+[Train] Epoch: 8/30 batch: 80/196 time: 5.2s Loss: 0.15 Acc: 88.333%
+
+[Train] Epoch: 8/30 batch: 90/196 time: 5.2s Loss: 0.24 Acc: 96.667%
+
+[Train] Epoch: 8/30 batch: 100/196 time: 5.2s Loss: 0.39 Acc: 83.333%
+
+[Train] Epoch: 8/30 batch: 110/196 time: 5.2s Loss: 0.22 Acc: 78.333%
+
+[Train] Epoch: 8/30 batch: 120/196 time: 5.2s Loss: 0.09 Acc: 88.333%
+
+[Train] Epoch: 8/30 batch: 130/196 time: 5.2s Loss: 0.12 Acc: 91.667%
+
+[Train] Epoch: 8/30 batch: 140/196 time: 5.2s Loss: 0.35 Acc: 90.000%
+
+[Train] Epoch: 8/30 batch: 150/196 time: 5.2s Loss: 0.40 Acc: 81.667%
+
+[Train] Epoch: 8/30 batch: 160/196 time: 5.3s Loss: 0.04 Acc: 91.667%
+
+[Train] Epoch: 8/30 batch: 170/196 time: 5.2s Loss: 0.25 Acc: 85.000%
+
+[Train] Epoch: 8/30 batch: 180/196 time: 5.2s Loss: 0.17 Acc: 91.667%
+
+[Train] Epoch: 8/30 batch: 190/196 time: 5.2s Loss: 0.31 Acc: 90.000%
+
+[Evaluate] Acc: 87.500%
+
+[Train] Epoch: 9/30 batch: 0/196 time: 10.9s Loss: 0.50 Acc: 75.000%
+
+[Train] Epoch: 9/30 batch: 10/196 time: 5.2s Loss: 0.14 Acc: 95.000%
+
+[Train] Epoch: 9/30 batch: 20/196 time: 5.2s Loss: 0.06 Acc: 91.667%
+
+[Train] Epoch: 9/30 batch: 30/196 time: 5.2s Loss: 0.19 Acc: 83.333%
+
+[Train] Epoch: 9/30 batch: 40/196 time: 5.2s Loss: 0.06 Acc: 90.000%
+
+[Train] Epoch: 9/30 batch: 50/196 time: 5.2s Loss: 0.19 Acc: 91.667%
+
+[Train] Epoch: 9/30 batch: 60/196 time: 5.2s Loss: 0.09 Acc: 93.333%
+
+[Train] Epoch: 9/30 batch: 70/196 time: 5.2s Loss: 0.37 Acc: 91.667%
+
+[Train] Epoch: 9/30 batch: 80/196 time: 5.2s Loss: 0.17 Acc: 95.000%
+
+[Train] Epoch: 9/30 batch: 90/196 time: 5.2s Loss: 0.44 Acc: 90.000%
+
+[Train] Epoch: 9/30 batch: 100/196 time: 5.2s Loss: 0.50 Acc: 83.333%
+
+[Train] Epoch: 9/30 batch: 110/196 time: 5.2s Loss: 0.28 Acc: 88.333%
+
+[Train] Epoch: 9/30 batch: 120/196 time: 5.2s Loss: 0.17 Acc: 95.000%
+
+[Train] Epoch: 9/30 batch: 130/196 time: 5.3s Loss: 0.19 Acc: 91.667%
+
+[Train] Epoch: 9/30 batch: 140/196 time: 5.2s Loss: 0.09 Acc: 91.667%
+
+[Train] Epoch: 9/30 batch: 150/196 time: 5.1s Loss: 0.28 Acc: 85.000%
+
+[Train] Epoch: 9/30 batch: 160/196 time: 5.1s Loss: 0.16 Acc: 86.667%
+
+[Train] Epoch: 9/30 batch: 170/196 time: 5.1s Loss: 0.78 Acc: 86.667%
+
+[Train] Epoch: 9/30 batch: 180/196 time: 5.1s Loss: 0.09 Acc: 91.667%
+
+[Train] Epoch: 9/30 batch: 190/196 time: 5.1s Loss: 0.32 Acc: 81.667%
+
+[Evaluate] Acc: 87.847%
+
+[Train] Epoch: 10/30 batch: 0/196 time: 10.9s Loss: 0.16 Acc: 97.222%
+
+[Train] Epoch: 10/30 batch: 10/196 time: 5.1s Loss: 0.12 Acc: 86.667%
+
+[Train] Epoch: 10/30 batch: 20/196 time: 5.1s Loss: 0.14 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 30/196 time: 5.1s Loss: 0.36 Acc: 88.333%
+
+[Train] Epoch: 10/30 batch: 40/196 time: 5.1s Loss: 0.18 Acc: 86.667%
+
+[Train] Epoch: 10/30 batch: 50/196 time: 5.2s Loss: 0.42 Acc: 91.667%
+
+[Train] Epoch: 10/30 batch: 60/196 time: 5.3s Loss: 0.14 Acc: 91.667%
+
+[Train] Epoch: 10/30 batch: 70/196 time: 5.2s Loss: 0.08 Acc: 95.000%
+
+[Train] Epoch: 10/30 batch: 80/196 time: 5.2s Loss: 0.08 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 90/196 time: 5.2s Loss: 0.07 Acc: 96.667%
+
+[Train] Epoch: 10/30 batch: 100/196 time: 5.2s Loss: 0.22 Acc: 96.667%
+
+[Train] Epoch: 10/30 batch: 110/196 time: 5.2s Loss: 0.04 Acc: 91.667%
+
+[Train] Epoch: 10/30 batch: 120/196 time: 5.2s Loss: 0.09 Acc: 98.333%
+
+[Train] Epoch: 10/30 batch: 130/196 time: 5.2s Loss: 0.10 Acc: 96.667%
+
+[Train] Epoch: 10/30 batch: 140/196 time: 5.2s Loss: 0.17 Acc: 86.667%
+
+[Train] Epoch: 10/30 batch: 150/196 time: 5.2s Loss: 0.41 Acc: 88.333%
+
+[Train] Epoch: 10/30 batch: 160/196 time: 5.3s Loss: 0.33 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 170/196 time: 5.2s Loss: 0.26 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 180/196 time: 5.2s Loss: 0.08 Acc: 93.333%
+
+[Train] Epoch: 10/30 batch: 190/196 time: 5.2s Loss: 0.76 Acc: 85.000%
+
+[Evaluate] Acc: 89.236%
+
+[Train] Epoch: 11/30 batch: 0/196 time: 11.0s Loss: 0.05 Acc: 88.889%
+
+[Train] Epoch: 11/30 batch: 10/196 time: 5.2s Loss: 0.61 Acc: 88.333%
+
+[Train] Epoch: 11/30 batch: 20/196 time: 5.2s Loss: 0.05 Acc: 95.000%
+
+[Train] Epoch: 11/30 batch: 30/196 time: 5.2s Loss: 0.06 Acc: 95.000%
+
+[Train] Epoch: 11/30 batch: 40/196 time: 5.3s Loss: 0.17 Acc: 98.333%
+
+[Train] Epoch: 11/30 batch: 50/196 time: 5.2s Loss: 0.97 Acc: 95.000%
+
+[Train] Epoch: 11/30 batch: 60/196 time: 5.2s Loss: 0.15 Acc: 95.000%
+
+[Train] Epoch: 11/30 batch: 70/196 time: 5.2s Loss: 0.35 Acc: 91.667%
+
+[Train] Epoch: 11/30 batch: 80/196 time: 5.2s Loss: 0.11 Acc: 91.667%
+
+[Train] Epoch: 11/30 batch: 90/196 time: 5.2s Loss: 0.08 Acc: 96.667%
+
+[Train] Epoch: 11/30 batch: 100/196 time: 5.2s Loss: 0.10 Acc: 95.000%
+
+[Train] Epoch: 11/30 batch: 110/196 time: 5.2s Loss: 0.18 Acc: 95.000%
+
+[Train] Epoch: 11/30 batch: 120/196 time: 5.2s Loss: 0.14 Acc: 88.333%
+
+[Train] Epoch: 11/30 batch: 130/196 time: 5.2s Loss: 0.08 Acc: 96.667%
+
+[Train] Epoch: 11/30 batch: 140/196 time: 5.2s Loss: 0.15 Acc: 91.667%
+
+[Train] Epoch: 11/30 batch: 150/196 time: 5.2s Loss: 0.10 Acc: 98.333%
+
+[Train] Epoch: 11/30 batch: 160/196 time: 5.2s Loss: 0.13 Acc: 100.000%
+
+[Train] Epoch: 11/30 batch: 170/196 time: 5.2s Loss: 0.12 Acc: 90.000%
+
+[Train] Epoch: 11/30 batch: 180/196 time: 5.2s Loss: 0.02 Acc: 95.000%
+
+[Train] Epoch: 11/30 batch: 190/196 time: 5.2s Loss: 0.03 Acc: 93.333%
+
+[Evaluate] Acc: 88.889%
+
+[Train] Epoch: 12/30 batch: 0/196 time: 11.0s Loss: 0.52 Acc: 94.444%
+
+[Train] Epoch: 12/30 batch: 10/196 time: 5.2s Loss: 0.26 Acc: 93.333%
+
+[Train] Epoch: 12/30 batch: 20/196 time: 5.3s Loss: 0.09 Acc: 96.667%
+
+[Train] Epoch: 12/30 batch: 30/196 time: 5.1s Loss: 0.07 Acc: 98.333%
+
+[Train] Epoch: 12/30 batch: 40/196 time: 5.2s Loss: 0.23 Acc: 88.333%
+
+[Train] Epoch: 12/30 batch: 50/196 time: 5.2s Loss: 0.20 Acc: 91.667%
+
+[Train] Epoch: 12/30 batch: 60/196 time: 5.2s Loss: 0.14 Acc: 93.333%
+
+[Train] Epoch: 12/30 batch: 70/196 time: 5.2s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 12/30 batch: 80/196 time: 5.2s Loss: 0.39 Acc: 95.000%
+
+[Train] Epoch: 12/30 batch: 90/196 time: 5.2s Loss: 0.31 Acc: 88.333%
+
+[Train] Epoch: 12/30 batch: 100/196 time: 5.2s Loss: 0.06 Acc: 95.000%
+
+[Train] Epoch: 12/30 batch: 110/196 time: 5.2s Loss: 0.08 Acc: 95.000%
+
+[Train] Epoch: 12/30 batch: 120/196 time: 5.2s Loss: 0.37 Acc: 93.333%
+
+[Train] Epoch: 12/30 batch: 130/196 time: 5.2s Loss: 0.39 Acc: 98.333%
+
+[Train] Epoch: 12/30 batch: 140/196 time: 5.3s Loss: 0.16 Acc: 95.000%
+
+[Train] Epoch: 12/30 batch: 150/196 time: 5.2s Loss: 0.06 Acc: 95.000%
+
+[Train] Epoch: 12/30 batch: 160/196 time: 5.2s Loss: 0.11 Acc: 100.000%
+
+[Train] Epoch: 12/30 batch: 170/196 time: 5.2s Loss: 0.07 Acc: 96.667%
+
+[Train] Epoch: 12/30 batch: 180/196 time: 5.2s Loss: 0.27 Acc: 91.667%
+
+[Train] Epoch: 12/30 batch: 190/196 time: 5.2s Loss: 0.11 Acc: 95.000%
+
+[Evaluate] Acc: 89.931%
+
+[Train] Epoch: 13/30 batch: 0/196 time: 10.9s Loss: 0.03 Acc: 88.889%
+
+[Train] Epoch: 13/30 batch: 10/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 13/30 batch: 20/196 time: 5.1s Loss: 0.18 Acc: 98.333%
+
+[Train] Epoch: 13/30 batch: 30/196 time: 5.1s Loss: 0.19 Acc: 98.333%
+
+[Train] Epoch: 13/30 batch: 40/196 time: 5.3s Loss: 0.09 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 50/196 time: 5.1s Loss: 0.58 Acc: 93.333%
+
+[Train] Epoch: 13/30 batch: 60/196 time: 5.1s Loss: 0.63 Acc: 90.000%
+
+[Train] Epoch: 13/30 batch: 70/196 time: 5.1s Loss: 0.22 Acc: 91.667%
+
+[Train] Epoch: 13/30 batch: 80/196 time: 5.1s Loss: 0.05 Acc: 98.333%
+
+[Train] Epoch: 13/30 batch: 90/196 time: 5.1s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 100/196 time: 5.1s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 110/196 time: 5.1s Loss: 0.13 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 120/196 time: 5.1s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 13/30 batch: 130/196 time: 5.2s Loss: 0.08 Acc: 98.333%
+
+[Train] Epoch: 13/30 batch: 140/196 time: 5.1s Loss: 0.02 Acc: 95.000%
+
+[Train] Epoch: 13/30 batch: 150/196 time: 5.1s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 160/196 time: 5.1s Loss: 0.31 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 170/196 time: 5.1s Loss: 0.11 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 180/196 time: 5.1s Loss: 0.09 Acc: 93.333%
+
+[Train] Epoch: 13/30 batch: 190/196 time: 5.1s Loss: 0.16 Acc: 93.333%
+
+[Evaluate] Acc: 92.708%
+
+[Train] Epoch: 14/30 batch: 0/196 time: 10.9s Loss: 0.10 Acc: 97.222%
+
+[Train] Epoch: 14/30 batch: 10/196 time: 5.1s Loss: 0.01 Acc: 93.333%
+
+[Train] Epoch: 14/30 batch: 20/196 time: 5.1s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 14/30 batch: 30/196 time: 5.1s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 14/30 batch: 40/196 time: 5.1s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 14/30 batch: 50/196 time: 5.1s Loss: 0.11 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 60/196 time: 5.1s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 70/196 time: 5.1s Loss: 0.06 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 80/196 time: 5.1s Loss: 0.43 Acc: 95.000%
+
+[Train] Epoch: 14/30 batch: 90/196 time: 5.1s Loss: 0.03 Acc: 95.000%
+
+[Train] Epoch: 14/30 batch: 100/196 time: 5.3s Loss: 0.14 Acc: 93.333%
+
+[Train] Epoch: 14/30 batch: 110/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 14/30 batch: 120/196 time: 5.1s Loss: 0.03 Acc: 93.333%
+
+[Train] Epoch: 14/30 batch: 130/196 time: 5.1s Loss: 0.29 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 140/196 time: 5.1s Loss: 0.09 Acc: 91.667%
+
+[Train] Epoch: 14/30 batch: 150/196 time: 5.1s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 14/30 batch: 160/196 time: 5.1s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 170/196 time: 5.1s Loss: 0.13 Acc: 98.333%
+
+[Train] Epoch: 14/30 batch: 180/196 time: 5.1s Loss: 0.06 Acc: 95.000%
+
+[Train] Epoch: 14/30 batch: 190/196 time: 5.1s Loss: 0.11 Acc: 95.000%
+
+[Evaluate] Acc: 91.319%
+
+[Train] Epoch: 15/30 batch: 0/196 time: 10.9s Loss: 0.04 Acc: 97.222%
+
+[Train] Epoch: 15/30 batch: 10/196 time: 5.2s Loss: 0.12 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 20/196 time: 5.1s Loss: 0.37 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 30/196 time: 5.3s Loss: 0.38 Acc: 95.000%
+
+[Train] Epoch: 15/30 batch: 40/196 time: 5.1s Loss: 0.10 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 50/196 time: 5.1s Loss: 0.04 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 60/196 time: 5.1s Loss: 0.04 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 70/196 time: 5.1s Loss: 0.88 Acc: 93.333%
+
+[Train] Epoch: 15/30 batch: 80/196 time: 5.1s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 90/196 time: 5.1s Loss: 0.38 Acc: 93.333%
+
+[Train] Epoch: 15/30 batch: 100/196 time: 5.1s Loss: 0.09 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 110/196 time: 5.1s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 15/30 batch: 120/196 time: 5.1s Loss: 0.10 Acc: 93.333%
+
+[Train] Epoch: 15/30 batch: 130/196 time: 5.2s Loss: 0.33 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 140/196 time: 5.1s Loss: 0.07 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 150/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 160/196 time: 5.1s Loss: 0.20 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 170/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 15/30 batch: 180/196 time: 5.1s Loss: 0.11 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 190/196 time: 5.1s Loss: 0.04 Acc: 98.333%
+
+[Evaluate] Acc: 94.792%
+
+[Train] Epoch: 16/30 batch: 0/196 time: 10.9s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 10/196 time: 5.3s Loss: 0.01 Acc: 95.000%
+
+[Train] Epoch: 16/30 batch: 20/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 16/30 batch: 30/196 time: 5.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 40/196 time: 5.2s Loss: 0.12 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 50/196 time: 5.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 60/196 time: 5.2s Loss: 0.03 Acc: 98.333%
+
+[Train] Epoch: 16/30 batch: 70/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 80/196 time: 5.2s Loss: 0.07 Acc: 95.000%
+
+[Train] Epoch: 16/30 batch: 90/196 time: 5.2s Loss: 0.13 Acc: 96.667%
+
+[Train] Epoch: 16/30 batch: 100/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 110/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 16/30 batch: 120/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 130/196 time: 5.2s Loss: 0.16 Acc: 96.667%
+
+[Train] Epoch: 16/30 batch: 140/196 time: 5.2s Loss: 0.04 Acc: 98.333%
+
+[Train] Epoch: 16/30 batch: 150/196 time: 5.2s Loss: 0.04 Acc: 95.000%
+
+[Train] Epoch: 16/30 batch: 160/196 time: 5.2s Loss: 0.20 Acc: 98.333%
+
+[Train] Epoch: 16/30 batch: 170/196 time: 5.2s Loss: 0.03 Acc: 98.333%
+
+[Train] Epoch: 16/30 batch: 180/196 time: 5.3s Loss: 0.32 Acc: 96.667%
+
+[Train] Epoch: 16/30 batch: 190/196 time: 5.2s Loss: 0.05 Acc: 96.667%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 17/30 batch: 0/196 time: 11.0s Loss: 0.17 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 10/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 20/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 30/196 time: 5.2s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 40/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 17/30 batch: 50/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 60/196 time: 5.2s Loss: 0.25 Acc: 95.000%
+
+[Train] Epoch: 17/30 batch: 70/196 time: 5.2s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 80/196 time: 5.2s Loss: 0.03 Acc: 98.333%
+
+[Train] Epoch: 17/30 batch: 90/196 time: 5.1s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 100/196 time: 5.1s Loss: 0.09 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 110/196 time: 5.3s Loss: 0.03 Acc: 93.333%
+
+[Train] Epoch: 17/30 batch: 120/196 time: 5.1s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 130/196 time: 5.1s Loss: 0.30 Acc: 98.333%
+
+[Train] Epoch: 17/30 batch: 140/196 time: 5.1s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 150/196 time: 5.1s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 160/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 170/196 time: 5.1s Loss: 0.23 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 180/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 17/30 batch: 190/196 time: 5.1s Loss: 0.04 Acc: 100.000%
+
+[Evaluate] Acc: 92.708%
+
+[Train] Epoch: 18/30 batch: 0/196 time: 10.9s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 10/196 time: 5.3s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 18/30 batch: 20/196 time: 5.1s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 30/196 time: 5.1s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 40/196 time: 5.1s Loss: 0.02 Acc: 95.000%
+
+[Train] Epoch: 18/30 batch: 50/196 time: 5.1s Loss: 0.06 Acc: 98.333%
+
+[Train] Epoch: 18/30 batch: 60/196 time: 5.1s Loss: 0.26 Acc: 98.333%
+
+[Train] Epoch: 18/30 batch: 70/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 80/196 time: 5.1s Loss: 0.08 Acc: 98.333%
+
+[Train] Epoch: 18/30 batch: 90/196 time: 5.1s Loss: 0.27 Acc: 98.333%
+
+[Train] Epoch: 18/30 batch: 100/196 time: 5.2s Loss: 0.07 Acc: 98.333%
+
+[Train] Epoch: 18/30 batch: 110/196 time: 5.2s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 18/30 batch: 120/196 time: 5.2s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 18/30 batch: 130/196 time: 5.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 140/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 150/196 time: 5.2s Loss: 0.28 Acc: 95.000%
+
+[Train] Epoch: 18/30 batch: 160/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 170/196 time: 5.2s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 18/30 batch: 180/196 time: 5.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 190/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Evaluate] Acc: 94.792%
+
+[Train] Epoch: 19/30 batch: 0/196 time: 11.0s Loss: 0.04 Acc: 97.222%
+
+[Train] Epoch: 19/30 batch: 10/196 time: 5.2s Loss: 0.68 Acc: 96.667%
+
+[Train] Epoch: 19/30 batch: 20/196 time: 5.2s Loss: 0.04 Acc: 95.000%
+
+[Train] Epoch: 19/30 batch: 30/196 time: 5.2s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 40/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 50/196 time: 5.2s Loss: 0.03 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 60/196 time: 5.2s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 70/196 time: 5.3s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 80/196 time: 5.2s Loss: 0.05 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 90/196 time: 5.2s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 100/196 time: 5.2s Loss: 0.11 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 110/196 time: 5.2s Loss: 0.04 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 120/196 time: 5.2s Loss: 0.04 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 130/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 19/30 batch: 140/196 time: 5.2s Loss: 0.61 Acc: 95.000%
+
+[Train] Epoch: 19/30 batch: 150/196 time: 5.2s Loss: 0.09 Acc: 98.333%
+
+[Train] Epoch: 19/30 batch: 160/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 170/196 time: 5.2s Loss: 0.19 Acc: 96.667%
+
+[Train] Epoch: 19/30 batch: 180/196 time: 5.2s Loss: 0.00 Acc: 93.333%
+
+[Train] Epoch: 19/30 batch: 190/196 time: 5.2s Loss: 0.04 Acc: 98.333%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 20/30 batch: 0/196 time: 11.1s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 10/196 time: 5.2s Loss: 0.15 Acc: 98.333%
+
+[Train] Epoch: 20/30 batch: 20/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 20/30 batch: 30/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 40/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 50/196 time: 5.2s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 20/30 batch: 60/196 time: 5.2s Loss: 0.00 Acc: 95.000%
+
+[Train] Epoch: 20/30 batch: 70/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 80/196 time: 5.2s Loss: 0.15 Acc: 98.333%
+
+[Train] Epoch: 20/30 batch: 90/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 100/196 time: 5.3s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 110/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 120/196 time: 5.2s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 130/196 time: 5.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 140/196 time: 5.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 150/196 time: 5.2s Loss: 0.01 Acc: 93.333%
+
+[Train] Epoch: 20/30 batch: 160/196 time: 5.1s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 20/30 batch: 170/196 time: 5.1s Loss: 0.08 Acc: 95.000%
+
+[Train] Epoch: 20/30 batch: 180/196 time: 5.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 190/196 time: 5.2s Loss: 0.04 Acc: 98.333%
+
+[Evaluate] Acc: 95.139%
+saved
+
+[Train] Epoch: 21/30 batch: 0/196 time: 11.1s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 10/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 20/196 time: 5.2s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 30/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 21/30 batch: 40/196 time: 5.2s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 21/30 batch: 50/196 time: 5.2s Loss: 0.02 Acc: 95.000%
+
+[Train] Epoch: 21/30 batch: 60/196 time: 5.2s Loss: 0.34 Acc: 95.000%
+
+[Train] Epoch: 21/30 batch: 70/196 time: 5.3s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 21/30 batch: 80/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 90/196 time: 5.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 100/196 time: 5.2s Loss: 0.01 Acc: 95.000%
+
+[Train] Epoch: 21/30 batch: 110/196 time: 5.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 120/196 time: 5.2s Loss: 0.16 Acc: 96.667%
+
+[Train] Epoch: 21/30 batch: 130/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 140/196 time: 5.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 150/196 time: 5.2s Loss: 0.10 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 160/196 time: 5.2s Loss: 0.06 Acc: 98.333%
+
+[Train] Epoch: 21/30 batch: 170/196 time: 5.2s Loss: 0.10 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 180/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 21/30 batch: 190/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Evaluate] Acc: 94.097%
+
+[Train] Epoch: 22/30 batch: 0/196 time: 10.9s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 10/196 time: 5.2s Loss: 0.32 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 20/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 22/30 batch: 30/196 time: 5.2s Loss: 0.10 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 40/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 22/30 batch: 50/196 time: 5.3s Loss: 0.18 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 60/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 70/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 80/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 22/30 batch: 90/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 100/196 time: 5.1s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 110/196 time: 5.1s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 120/196 time: 5.1s Loss: 0.00 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 130/196 time: 5.1s Loss: 0.15 Acc: 93.333%
+
+[Train] Epoch: 22/30 batch: 140/196 time: 5.1s Loss: 0.03 Acc: 98.333%
+
+[Train] Epoch: 22/30 batch: 150/196 time: 5.1s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 160/196 time: 5.2s Loss: 0.12 Acc: 98.333%
+
+[Train] Epoch: 22/30 batch: 170/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 180/196 time: 5.3s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 190/196 time: 5.1s Loss: 0.02 Acc: 95.000%
+
+[Evaluate] Acc: 94.097%
+
+[Train] Epoch: 23/30 batch: 0/196 time: 10.9s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 10/196 time: 5.1s Loss: 0.11 Acc: 98.333%
+
+[Train] Epoch: 23/30 batch: 20/196 time: 5.1s Loss: 0.05 Acc: 98.333%
+
+[Train] Epoch: 23/30 batch: 30/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 40/196 time: 5.1s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 23/30 batch: 50/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 60/196 time: 5.1s Loss: 1.02 Acc: 95.000%
+
+[Train] Epoch: 23/30 batch: 70/196 time: 5.1s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 80/196 time: 5.3s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 23/30 batch: 90/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 100/196 time: 5.1s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 110/196 time: 5.1s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 120/196 time: 5.1s Loss: 0.03 Acc: 98.333%
+
+[Train] Epoch: 23/30 batch: 130/196 time: 5.1s Loss: 0.13 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 140/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 23/30 batch: 150/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 160/196 time: 5.2s Loss: 0.20 Acc: 98.333%
+
+[Train] Epoch: 23/30 batch: 170/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 180/196 time: 5.1s Loss: 0.03 Acc: 98.333%
+
+[Train] Epoch: 23/30 batch: 190/196 time: 5.1s Loss: 0.02 Acc: 91.667%
+
+[Evaluate] Acc: 94.792%
+
+[Train] Epoch: 24/30 batch: 0/196 time: 10.9s Loss: 0.04 Acc: 97.222%
+
+[Train] Epoch: 24/30 batch: 10/196 time: 5.1s Loss: 0.10 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 20/196 time: 5.1s Loss: 0.01 Acc: 95.000%
+
+[Train] Epoch: 24/30 batch: 30/196 time: 5.1s Loss: 0.00 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 40/196 time: 5.1s Loss: 0.06 Acc: 98.333%
+
+[Train] Epoch: 24/30 batch: 50/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 60/196 time: 5.1s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 70/196 time: 5.1s Loss: 0.21 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 80/196 time: 5.1s Loss: 0.03 Acc: 95.000%
+
+[Train] Epoch: 24/30 batch: 90/196 time: 5.1s Loss: 0.11 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 100/196 time: 5.1s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 110/196 time: 5.1s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 120/196 time: 5.1s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 130/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 140/196 time: 5.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 150/196 time: 5.2s Loss: 0.44 Acc: 93.333%
+
+[Train] Epoch: 24/30 batch: 160/196 time: 5.2s Loss: 0.06 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 170/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 180/196 time: 5.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 190/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Evaluate] Acc: 95.139%
+saved
+
+[Train] Epoch: 25/30 batch: 0/196 time: 11.0s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 10/196 time: 5.1s Loss: 0.09 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 20/196 time: 5.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 30/196 time: 5.2s Loss: 0.42 Acc: 95.000%
+
+[Train] Epoch: 25/30 batch: 40/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 50/196 time: 5.1s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 60/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 25/30 batch: 70/196 time: 5.1s Loss: 0.15 Acc: 98.333%
+
+[Train] Epoch: 25/30 batch: 80/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 25/30 batch: 90/196 time: 5.3s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 25/30 batch: 100/196 time: 5.1s Loss: 0.00 Acc: 95.000%
+
+[Train] Epoch: 25/30 batch: 110/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 25/30 batch: 120/196 time: 5.1s Loss: 0.04 Acc: 98.333%
+
+[Train] Epoch: 25/30 batch: 130/196 time: 5.1s Loss: 0.01 Acc: 95.000%
+
+[Train] Epoch: 25/30 batch: 140/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 25/30 batch: 150/196 time: 5.1s Loss: 0.28 Acc: 96.667%
+
+[Train] Epoch: 25/30 batch: 160/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 170/196 time: 5.1s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 25/30 batch: 180/196 time: 5.1s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 190/196 time: 5.1s Loss: 0.09 Acc: 100.000%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 26/30 batch: 0/196 time: 11.0s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 10/196 time: 5.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 20/196 time: 5.1s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 26/30 batch: 30/196 time: 5.1s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 40/196 time: 5.1s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 26/30 batch: 50/196 time: 5.1s Loss: 0.08 Acc: 98.333%
+
+[Train] Epoch: 26/30 batch: 60/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 70/196 time: 5.1s Loss: 0.12 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 80/196 time: 5.2s Loss: 0.12 Acc: 96.667%
+
+[Train] Epoch: 26/30 batch: 90/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 100/196 time: 5.2s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 26/30 batch: 110/196 time: 5.3s Loss: 0.07 Acc: 98.333%
+
+[Train] Epoch: 26/30 batch: 120/196 time: 5.2s Loss: 0.03 Acc: 98.333%
+
+[Train] Epoch: 26/30 batch: 130/196 time: 5.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 140/196 time: 5.2s Loss: 0.18 Acc: 98.333%
+
+[Train] Epoch: 26/30 batch: 150/196 time: 5.2s Loss: 0.17 Acc: 96.667%
+
+[Train] Epoch: 26/30 batch: 160/196 time: 5.1s Loss: 0.10 Acc: 98.333%
+
+[Train] Epoch: 26/30 batch: 170/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 180/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 26/30 batch: 190/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Evaluate] Acc: 94.792%
+
+[Train] Epoch: 27/30 batch: 0/196 time: 11.0s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 10/196 time: 5.2s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 27/30 batch: 20/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 30/196 time: 5.2s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 40/196 time: 5.2s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 27/30 batch: 50/196 time: 5.2s Loss: 0.12 Acc: 98.333%
+
+[Train] Epoch: 27/30 batch: 60/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 27/30 batch: 70/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 27/30 batch: 80/196 time: 5.2s Loss: 0.17 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 90/196 time: 5.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 100/196 time: 5.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 27/30 batch: 110/196 time: 5.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 120/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 27/30 batch: 130/196 time: 5.1s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 140/196 time: 5.1s Loss: 0.03 Acc: 93.333%
+
+[Train] Epoch: 27/30 batch: 150/196 time: 5.2s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 160/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 170/196 time: 5.3s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 27/30 batch: 180/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 190/196 time: 5.2s Loss: 0.05 Acc: 98.333%
+
+[Evaluate] Acc: 94.792%
+
+[Train] Epoch: 28/30 batch: 0/196 time: 10.9s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 10/196 time: 5.1s Loss: 0.08 Acc: 96.667%
+
+[Train] Epoch: 28/30 batch: 20/196 time: 5.1s Loss: 0.01 Acc: 95.000%
+
+[Train] Epoch: 28/30 batch: 30/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 40/196 time: 5.1s Loss: 0.00 Acc: 96.667%
+
+[Train] Epoch: 28/30 batch: 50/196 time: 5.2s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 28/30 batch: 60/196 time: 5.1s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 28/30 batch: 70/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 28/30 batch: 80/196 time: 5.1s Loss: 0.15 Acc: 98.333%
+
+[Train] Epoch: 28/30 batch: 90/196 time: 5.1s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 100/196 time: 5.3s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 28/30 batch: 110/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 120/196 time: 5.1s Loss: 0.03 Acc: 93.333%
+
+[Train] Epoch: 28/30 batch: 130/196 time: 5.1s Loss: 0.00 Acc: 98.333%
+
+[Train] Epoch: 28/30 batch: 140/196 time: 5.1s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 28/30 batch: 150/196 time: 5.1s Loss: 0.05 Acc: 98.333%
+
+[Train] Epoch: 28/30 batch: 160/196 time: 5.1s Loss: 0.19 Acc: 98.333%
+
+[Train] Epoch: 28/30 batch: 170/196 time: 5.2s Loss: 0.00 Acc: 98.333%
+
+[Train] Epoch: 28/30 batch: 180/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 190/196 time: 5.2s Loss: 0.24 Acc: 98.333%
+
+[Evaluate] Acc: 93.750%
+
+[Train] Epoch: 29/30 batch: 0/196 time: 10.9s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 10/196 time: 5.1s Loss: 0.00 Acc: 98.333%
+
+[Train] Epoch: 29/30 batch: 20/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 30/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 40/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 50/196 time: 5.1s Loss: 0.14 Acc: 96.667%
+
+[Train] Epoch: 29/30 batch: 60/196 time: 5.1s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 70/196 time: 5.2s Loss: 0.07 Acc: 98.333%
+
+[Train] Epoch: 29/30 batch: 80/196 time: 5.2s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 90/196 time: 5.1s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 100/196 time: 5.1s Loss: 0.07 Acc: 96.667%
+
+[Train] Epoch: 29/30 batch: 110/196 time: 5.1s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 120/196 time: 5.1s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 130/196 time: 5.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 140/196 time: 5.1s Loss: 0.00 Acc: 98.333%
+
+[Train] Epoch: 29/30 batch: 150/196 time: 5.1s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 160/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 29/30 batch: 170/196 time: 5.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 180/196 time: 5.1s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 29/30 batch: 190/196 time: 5.1s Loss: 0.03 Acc: 96.667%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 30/30 batch: 0/196 time: 11.0s Loss: 0.00 Acc: 97.222%
+
+[Train] Epoch: 30/30 batch: 10/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 30/30 batch: 20/196 time: 5.1s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 30/30 batch: 30/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 30/30 batch: 40/196 time: 5.1s Loss: 0.20 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 50/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 30/30 batch: 60/196 time: 5.3s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 30/30 batch: 70/196 time: 5.1s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 80/196 time: 5.1s Loss: 0.24 Acc: 98.333%
+
+[Train] Epoch: 30/30 batch: 90/196 time: 5.1s Loss: 0.01 Acc: 98.333%
+
+[Train] Epoch: 30/30 batch: 100/196 time: 5.2s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 110/196 time: 5.1s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 120/196 time: 5.2s Loss: 0.01 Acc: 93.333%
+
+[Train] Epoch: 30/30 batch: 130/196 time: 5.2s Loss: 0.10 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 140/196 time: 5.1s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 150/196 time: 5.2s Loss: 0.07 Acc: 98.333%
+
+[Train] Epoch: 30/30 batch: 160/196 time: 5.1s Loss: 0.02 Acc: 98.333%
+
+[Train] Epoch: 30/30 batch: 170/196 time: 5.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 180/196 time: 5.3s Loss: 0.52 Acc: 96.667%
+
+[Train] Epoch: 30/30 batch: 190/196 time: 5.2s Loss: 0.00 Acc: 100.000%
+
+[Evaluate] Acc: 94.792%
+saved
+
+
+参数 ->  {'lr': 0.0001, 'batch_size': 9, 'epochs': 30, 'loss': 'CE', 'dropout_mlp': 0.2, 'dropout_head': 0.1, 'optim': 'Adam', 'weight_decay': 0.0005}
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+---------------------------------Training---------------------------------
+
+[Train] Epoch: 1/30 batch: 0/130 time: 1.1s Loss: 2.41 Acc: 0.000%
+
+[Train] Epoch: 1/30 batch: 10/130 time: 7.2s Loss: 2.40 Acc: 13.333%
+
+[Train] Epoch: 1/30 batch: 20/130 time: 7.2s Loss: 2.36 Acc: 11.111%
+
+[Train] Epoch: 1/30 batch: 30/130 time: 7.2s Loss: 2.37 Acc: 15.556%
+
+[Train] Epoch: 1/30 batch: 40/130 time: 7.2s Loss: 2.10 Acc: 27.778%
+
+[Train] Epoch: 1/30 batch: 50/130 time: 7.2s Loss: 1.60 Acc: 22.222%
+
+[Train] Epoch: 1/30 batch: 60/130 time: 7.2s Loss: 2.17 Acc: 18.889%
+
+[Train] Epoch: 1/30 batch: 70/130 time: 7.3s Loss: 1.90 Acc: 32.222%
+
+[Train] Epoch: 1/30 batch: 80/130 time: 7.2s Loss: 1.88 Acc: 42.222%
+
+[Train] Epoch: 1/30 batch: 90/130 time: 7.2s Loss: 1.50 Acc: 46.667%
+
+[Train] Epoch: 1/30 batch: 100/130 time: 7.2s Loss: 1.56 Acc: 38.889%
+
+[Train] Epoch: 1/30 batch: 110/130 time: 7.2s Loss: 1.40 Acc: 54.444%
+
+[Train] Epoch: 1/30 batch: 120/130 time: 7.2s Loss: 1.28 Acc: 46.667%
+
+[Evaluate] Acc: 55.556%
+
+[Train] Epoch: 2/30 batch: 0/130 time: 14.2s Loss: 1.25 Acc: 55.556%
+
+[Train] Epoch: 2/30 batch: 10/130 time: 7.2s Loss: 0.95 Acc: 62.222%
+
+[Train] Epoch: 2/30 batch: 20/130 time: 7.2s Loss: 0.94 Acc: 53.333%
+
+[Train] Epoch: 2/30 batch: 30/130 time: 7.2s Loss: 1.03 Acc: 58.889%
+
+[Train] Epoch: 2/30 batch: 40/130 time: 7.2s Loss: 0.89 Acc: 57.778%
+
+[Train] Epoch: 2/30 batch: 50/130 time: 7.2s Loss: 0.97 Acc: 64.444%
+
+[Train] Epoch: 2/30 batch: 60/130 time: 7.2s Loss: 0.86 Acc: 61.111%
+
+[Train] Epoch: 2/30 batch: 70/130 time: 7.2s Loss: 0.72 Acc: 65.556%
+
+[Train] Epoch: 2/30 batch: 80/130 time: 7.2s Loss: 0.89 Acc: 67.778%
+
+[Train] Epoch: 2/30 batch: 90/130 time: 7.2s Loss: 0.81 Acc: 71.111%
+
+[Train] Epoch: 2/30 batch: 100/130 time: 7.2s Loss: 0.61 Acc: 74.444%
+
+[Train] Epoch: 2/30 batch: 110/130 time: 7.2s Loss: 0.64 Acc: 72.222%
+
+[Train] Epoch: 2/30 batch: 120/130 time: 7.3s Loss: 0.84 Acc: 65.556%
+
+[Evaluate] Acc: 69.097%
+
+[Train] Epoch: 3/30 batch: 0/130 time: 14.2s Loss: 0.78 Acc: 73.333%
+
+[Train] Epoch: 3/30 batch: 10/130 time: 7.2s Loss: 0.58 Acc: 61.111%
+
+[Train] Epoch: 3/30 batch: 20/130 time: 7.2s Loss: 0.50 Acc: 80.000%
+
+[Train] Epoch: 3/30 batch: 30/130 time: 7.2s Loss: 0.51 Acc: 71.111%
+
+[Train] Epoch: 3/30 batch: 40/130 time: 7.2s Loss: 0.91 Acc: 71.111%
+
+[Train] Epoch: 3/30 batch: 50/130 time: 7.2s Loss: 0.75 Acc: 78.889%
+
+[Train] Epoch: 3/30 batch: 60/130 time: 7.2s Loss: 0.41 Acc: 70.000%
+
+[Train] Epoch: 3/30 batch: 70/130 time: 7.2s Loss: 0.58 Acc: 77.778%
+
+[Train] Epoch: 3/30 batch: 80/130 time: 7.4s Loss: 0.50 Acc: 81.111%
+
+[Train] Epoch: 3/30 batch: 90/130 time: 7.2s Loss: 0.91 Acc: 76.667%
+
+[Train] Epoch: 3/30 batch: 100/130 time: 7.2s Loss: 0.35 Acc: 85.556%
+
+[Train] Epoch: 3/30 batch: 110/130 time: 7.2s Loss: 0.46 Acc: 82.222%
+
+[Train] Epoch: 3/30 batch: 120/130 time: 7.2s Loss: 0.50 Acc: 58.889%
+
+[Evaluate] Acc: 75.000%
+
+[Train] Epoch: 4/30 batch: 0/130 time: 14.2s Loss: 0.41 Acc: 67.778%
+
+[Train] Epoch: 4/30 batch: 10/130 time: 7.2s Loss: 0.49 Acc: 82.222%
+
+[Train] Epoch: 4/30 batch: 20/130 time: 7.2s Loss: 0.50 Acc: 80.000%
+
+[Train] Epoch: 4/30 batch: 30/130 time: 7.2s Loss: 0.49 Acc: 73.333%
+
+[Train] Epoch: 4/30 batch: 40/130 time: 7.3s Loss: 0.58 Acc: 78.889%
+
+[Train] Epoch: 4/30 batch: 50/130 time: 7.3s Loss: 0.43 Acc: 72.222%
+
+[Train] Epoch: 4/30 batch: 60/130 time: 7.2s Loss: 0.29 Acc: 83.333%
+
+[Train] Epoch: 4/30 batch: 70/130 time: 7.2s Loss: 0.56 Acc: 70.000%
+
+[Train] Epoch: 4/30 batch: 80/130 time: 7.2s Loss: 0.46 Acc: 83.333%
+
+[Train] Epoch: 4/30 batch: 90/130 time: 7.2s Loss: 0.46 Acc: 78.889%
+
+[Train] Epoch: 4/30 batch: 100/130 time: 7.2s Loss: 0.23 Acc: 74.444%
+
+[Train] Epoch: 4/30 batch: 110/130 time: 7.2s Loss: 0.27 Acc: 75.556%
+
+[Train] Epoch: 4/30 batch: 120/130 time: 7.2s Loss: 0.50 Acc: 82.222%
+
+[Evaluate] Acc: 78.472%
+
+[Train] Epoch: 5/30 batch: 0/130 time: 14.3s Loss: 0.24 Acc: 80.000%
+
+[Train] Epoch: 5/30 batch: 10/130 time: 7.2s Loss: 0.15 Acc: 82.222%
+
+[Train] Epoch: 5/30 batch: 20/130 time: 7.2s Loss: 0.46 Acc: 84.444%
+
+[Train] Epoch: 5/30 batch: 30/130 time: 7.2s Loss: 0.19 Acc: 78.889%
+
+[Train] Epoch: 5/30 batch: 40/130 time: 7.2s Loss: 0.19 Acc: 76.667%
+
+[Train] Epoch: 5/30 batch: 50/130 time: 7.2s Loss: 0.82 Acc: 73.333%
+
+[Train] Epoch: 5/30 batch: 60/130 time: 7.2s Loss: 0.14 Acc: 83.333%
+
+[Train] Epoch: 5/30 batch: 70/130 time: 7.2s Loss: 0.36 Acc: 77.778%
+
+[Train] Epoch: 5/30 batch: 80/130 time: 7.2s Loss: 0.59 Acc: 81.111%
+
+[Train] Epoch: 5/30 batch: 90/130 time: 7.3s Loss: 0.19 Acc: 78.889%
+
+[Train] Epoch: 5/30 batch: 100/130 time: 7.2s Loss: 0.20 Acc: 81.111%
+
+[Train] Epoch: 5/30 batch: 110/130 time: 7.2s Loss: 0.26 Acc: 82.222%
+
+[Train] Epoch: 5/30 batch: 120/130 time: 7.2s Loss: 0.15 Acc: 83.333%
+
+[Evaluate] Acc: 77.431%
+
+[Train] Epoch: 6/30 batch: 0/130 time: 14.2s Loss: 0.79 Acc: 83.333%
+
+[Train] Epoch: 6/30 batch: 10/130 time: 7.2s Loss: 0.34 Acc: 88.889%
+
+[Train] Epoch: 6/30 batch: 20/130 time: 7.2s Loss: 0.18 Acc: 83.333%
+
+[Train] Epoch: 6/30 batch: 30/130 time: 7.2s Loss: 0.29 Acc: 81.111%
+
+[Train] Epoch: 6/30 batch: 40/130 time: 7.2s Loss: 0.14 Acc: 82.222%
+
+[Train] Epoch: 6/30 batch: 50/130 time: 7.2s Loss: 0.51 Acc: 83.333%
+
+[Train] Epoch: 6/30 batch: 60/130 time: 7.2s Loss: 0.26 Acc: 81.111%
+
+[Train] Epoch: 6/30 batch: 70/130 time: 7.2s Loss: 0.31 Acc: 83.333%
+
+[Train] Epoch: 6/30 batch: 80/130 time: 7.2s Loss: 0.24 Acc: 84.444%
+
+[Train] Epoch: 6/30 batch: 90/130 time: 7.2s Loss: 0.26 Acc: 82.222%
+
+[Train] Epoch: 6/30 batch: 100/130 time: 7.2s Loss: 0.30 Acc: 80.000%
+
+[Train] Epoch: 6/30 batch: 110/130 time: 7.2s Loss: 0.16 Acc: 78.889%
+
+[Train] Epoch: 6/30 batch: 120/130 time: 7.2s Loss: 0.39 Acc: 80.000%
+
+[Evaluate] Acc: 80.903%
+
+[Train] Epoch: 7/30 batch: 0/130 time: 14.2s Loss: 0.23 Acc: 84.444%
+
+[Train] Epoch: 7/30 batch: 10/130 time: 7.2s Loss: 0.22 Acc: 77.778%
+
+[Train] Epoch: 7/30 batch: 20/130 time: 7.3s Loss: 0.41 Acc: 80.000%
+
+[Train] Epoch: 7/30 batch: 30/130 time: 7.2s Loss: 0.58 Acc: 86.667%
+
+[Train] Epoch: 7/30 batch: 40/130 time: 7.2s Loss: 0.34 Acc: 87.778%
+
+[Train] Epoch: 7/30 batch: 50/130 time: 7.3s Loss: 0.26 Acc: 85.556%
+
+[Train] Epoch: 7/30 batch: 60/130 time: 7.2s Loss: 0.18 Acc: 86.667%
+
+[Train] Epoch: 7/30 batch: 70/130 time: 7.2s Loss: 0.16 Acc: 92.222%
+
+[Train] Epoch: 7/30 batch: 80/130 time: 7.2s Loss: 0.34 Acc: 86.667%
+
+[Train] Epoch: 7/30 batch: 90/130 time: 7.2s Loss: 0.90 Acc: 85.556%
+
+[Train] Epoch: 7/30 batch: 100/130 time: 7.2s Loss: 0.30 Acc: 81.111%
+
+[Train] Epoch: 7/30 batch: 110/130 time: 7.3s Loss: 0.23 Acc: 78.889%
+
+[Train] Epoch: 7/30 batch: 120/130 time: 7.2s Loss: 0.29 Acc: 84.444%
+
+[Evaluate] Acc: 80.208%
+
+[Train] Epoch: 8/30 batch: 0/130 time: 14.2s Loss: 0.19 Acc: 85.556%
+
+[Train] Epoch: 8/30 batch: 10/130 time: 7.2s Loss: 0.39 Acc: 84.444%
+
+[Train] Epoch: 8/30 batch: 20/130 time: 7.2s Loss: 0.19 Acc: 81.111%
+
+[Train] Epoch: 8/30 batch: 30/130 time: 7.2s Loss: 0.18 Acc: 88.889%
+
+[Train] Epoch: 8/30 batch: 40/130 time: 7.2s Loss: 0.30 Acc: 80.000%
+
+[Train] Epoch: 8/30 batch: 50/130 time: 7.2s Loss: 0.38 Acc: 88.889%
+
+[Train] Epoch: 8/30 batch: 60/130 time: 7.2s Loss: 0.30 Acc: 78.889%
+
+[Train] Epoch: 8/30 batch: 70/130 time: 7.3s Loss: 0.29 Acc: 84.444%
+
+[Train] Epoch: 8/30 batch: 80/130 time: 7.2s Loss: 0.26 Acc: 87.778%
+
+[Train] Epoch: 8/30 batch: 90/130 time: 7.2s Loss: 0.12 Acc: 90.000%
+
+[Train] Epoch: 8/30 batch: 100/130 time: 7.2s Loss: 0.16 Acc: 87.778%
+
+[Train] Epoch: 8/30 batch: 110/130 time: 7.2s Loss: 0.19 Acc: 87.778%
+
+[Train] Epoch: 8/30 batch: 120/130 time: 7.2s Loss: 0.12 Acc: 92.222%
+
+[Evaluate] Acc: 84.375%
+
+[Train] Epoch: 9/30 batch: 0/130 time: 14.2s Loss: 0.31 Acc: 86.667%
+
+[Train] Epoch: 9/30 batch: 10/130 time: 7.2s Loss: 0.09 Acc: 91.111%
+
+[Train] Epoch: 9/30 batch: 20/130 time: 7.2s Loss: 0.10 Acc: 90.000%
+
+[Train] Epoch: 9/30 batch: 30/130 time: 7.4s Loss: 0.16 Acc: 92.222%
+
+[Train] Epoch: 9/30 batch: 40/130 time: 7.2s Loss: 0.45 Acc: 86.667%
+
+[Train] Epoch: 9/30 batch: 50/130 time: 7.2s Loss: 0.35 Acc: 90.000%
+
+[Train] Epoch: 9/30 batch: 60/130 time: 7.2s Loss: 0.12 Acc: 82.222%
+
+[Train] Epoch: 9/30 batch: 70/130 time: 7.2s Loss: 0.23 Acc: 90.000%
+
+[Train] Epoch: 9/30 batch: 80/130 time: 7.2s Loss: 0.35 Acc: 84.444%
+
+[Train] Epoch: 9/30 batch: 90/130 time: 7.2s Loss: 0.24 Acc: 92.222%
+
+[Train] Epoch: 9/30 batch: 100/130 time: 7.2s Loss: 0.16 Acc: 91.111%
+
+[Train] Epoch: 9/30 batch: 110/130 time: 7.2s Loss: 0.15 Acc: 93.333%
+
+[Train] Epoch: 9/30 batch: 120/130 time: 7.2s Loss: 0.07 Acc: 83.333%
+
+[Evaluate] Acc: 85.417%
+
+[Train] Epoch: 10/30 batch: 0/130 time: 14.2s Loss: 0.09 Acc: 91.111%
+
+[Train] Epoch: 10/30 batch: 10/130 time: 7.2s Loss: 0.11 Acc: 92.222%
+
+[Train] Epoch: 10/30 batch: 20/130 time: 7.2s Loss: 0.18 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 30/130 time: 7.2s Loss: 0.08 Acc: 92.222%
+
+[Train] Epoch: 10/30 batch: 40/130 time: 7.2s Loss: 0.30 Acc: 86.667%
+
+[Train] Epoch: 10/30 batch: 50/130 time: 7.2s Loss: 0.43 Acc: 87.778%
+
+[Train] Epoch: 10/30 batch: 60/130 time: 7.2s Loss: 0.11 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 70/130 time: 7.2s Loss: 0.21 Acc: 91.111%
+
+[Train] Epoch: 10/30 batch: 80/130 time: 7.2s Loss: 0.37 Acc: 92.222%
+
+[Train] Epoch: 10/30 batch: 90/130 time: 7.2s Loss: 0.30 Acc: 95.556%
+
+[Train] Epoch: 10/30 batch: 100/130 time: 7.2s Loss: 0.09 Acc: 93.333%
+
+[Train] Epoch: 10/30 batch: 110/130 time: 7.2s Loss: 0.42 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 120/130 time: 7.2s Loss: 0.07 Acc: 92.222%
+
+[Evaluate] Acc: 86.806%
+
+[Train] Epoch: 11/30 batch: 0/130 time: 14.2s Loss: 0.36 Acc: 86.667%
+
+[Train] Epoch: 11/30 batch: 10/130 time: 7.3s Loss: 0.05 Acc: 90.000%
+
+[Train] Epoch: 11/30 batch: 20/130 time: 7.3s Loss: 0.10 Acc: 93.333%
+
+[Train] Epoch: 11/30 batch: 30/130 time: 7.3s Loss: 0.15 Acc: 91.111%
+
+[Train] Epoch: 11/30 batch: 40/130 time: 7.4s Loss: 0.15 Acc: 94.444%
+
+[Train] Epoch: 11/30 batch: 50/130 time: 7.3s Loss: 0.24 Acc: 93.333%
+
+[Train] Epoch: 11/30 batch: 60/130 time: 7.3s Loss: 0.13 Acc: 93.333%
+
+[Train] Epoch: 11/30 batch: 70/130 time: 7.3s Loss: 0.12 Acc: 88.889%
+
+[Train] Epoch: 11/30 batch: 80/130 time: 7.2s Loss: 0.08 Acc: 93.333%
+
+[Train] Epoch: 11/30 batch: 90/130 time: 7.2s Loss: 0.30 Acc: 91.111%
+
+[Train] Epoch: 11/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 92.222%
+
+[Train] Epoch: 11/30 batch: 110/130 time: 7.2s Loss: 0.02 Acc: 95.556%
+
+[Train] Epoch: 11/30 batch: 120/130 time: 7.2s Loss: 0.11 Acc: 94.444%
+
+[Evaluate] Acc: 90.625%
+
+[Train] Epoch: 12/30 batch: 0/130 time: 14.5s Loss: 0.12 Acc: 92.222%
+
+[Train] Epoch: 12/30 batch: 10/130 time: 7.4s Loss: 0.15 Acc: 95.556%
+
+[Train] Epoch: 12/30 batch: 20/130 time: 7.3s Loss: 0.06 Acc: 95.556%
+
+[Train] Epoch: 12/30 batch: 30/130 time: 7.3s Loss: 0.09 Acc: 97.778%
+
+[Train] Epoch: 12/30 batch: 40/130 time: 7.3s Loss: 0.20 Acc: 95.556%
+
+[Train] Epoch: 12/30 batch: 50/130 time: 7.3s Loss: 0.06 Acc: 96.667%
+
+[Train] Epoch: 12/30 batch: 60/130 time: 7.3s Loss: 0.14 Acc: 97.778%
+
+[Train] Epoch: 12/30 batch: 70/130 time: 7.3s Loss: 0.05 Acc: 94.444%
+
+[Train] Epoch: 12/30 batch: 80/130 time: 7.3s Loss: 0.37 Acc: 92.222%
+
+[Train] Epoch: 12/30 batch: 90/130 time: 7.3s Loss: 0.35 Acc: 94.444%
+
+[Train] Epoch: 12/30 batch: 100/130 time: 7.4s Loss: 0.16 Acc: 97.778%
+
+[Train] Epoch: 12/30 batch: 110/130 time: 7.3s Loss: 0.14 Acc: 92.222%
+
+[Train] Epoch: 12/30 batch: 120/130 time: 7.3s Loss: 0.13 Acc: 98.889%
+
+[Evaluate] Acc: 92.014%
+
+[Train] Epoch: 13/30 batch: 0/130 time: 14.3s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 13/30 batch: 10/130 time: 7.3s Loss: 0.05 Acc: 94.444%
+
+[Train] Epoch: 13/30 batch: 20/130 time: 7.2s Loss: 0.16 Acc: 90.000%
+
+[Train] Epoch: 13/30 batch: 30/130 time: 7.3s Loss: 0.07 Acc: 97.778%
+
+[Train] Epoch: 13/30 batch: 40/130 time: 7.3s Loss: 0.09 Acc: 97.778%
+
+[Train] Epoch: 13/30 batch: 50/130 time: 7.2s Loss: 0.03 Acc: 94.444%
+
+[Train] Epoch: 13/30 batch: 60/130 time: 7.4s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 70/130 time: 7.2s Loss: 0.20 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 80/130 time: 7.2s Loss: 0.19 Acc: 100.000%
+
+[Train] Epoch: 13/30 batch: 90/130 time: 7.2s Loss: 0.11 Acc: 97.778%
+
+[Train] Epoch: 13/30 batch: 100/130 time: 7.2s Loss: 0.11 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 110/130 time: 7.2s Loss: 0.23 Acc: 96.667%
+
+[Train] Epoch: 13/30 batch: 120/130 time: 7.2s Loss: 0.38 Acc: 93.333%
+
+[Evaluate] Acc: 93.403%
+
+[Train] Epoch: 14/30 batch: 0/130 time: 14.2s Loss: 0.16 Acc: 98.889%
+
+[Train] Epoch: 14/30 batch: 10/130 time: 7.2s Loss: 0.18 Acc: 100.000%
+
+[Train] Epoch: 14/30 batch: 20/130 time: 7.2s Loss: 0.04 Acc: 95.556%
+
+[Train] Epoch: 14/30 batch: 30/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 14/30 batch: 40/130 time: 7.2s Loss: 0.06 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 50/130 time: 7.2s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 60/130 time: 7.2s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 14/30 batch: 70/130 time: 7.2s Loss: 0.06 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 80/130 time: 7.2s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 90/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 14/30 batch: 100/130 time: 7.2s Loss: 0.30 Acc: 96.667%
+
+[Train] Epoch: 14/30 batch: 110/130 time: 7.3s Loss: 0.13 Acc: 95.556%
+
+[Train] Epoch: 14/30 batch: 120/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Evaluate] Acc: 93.056%
+
+[Train] Epoch: 15/30 batch: 0/130 time: 14.2s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 10/130 time: 7.2s Loss: 0.14 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 20/130 time: 7.2s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 30/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 15/30 batch: 40/130 time: 7.2s Loss: 0.06 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 50/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 95.556%
+
+[Train] Epoch: 15/30 batch: 70/130 time: 7.4s Loss: 0.07 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 80/130 time: 7.2s Loss: 0.25 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 90/130 time: 7.3s Loss: 0.08 Acc: 98.889%
+
+[Train] Epoch: 15/30 batch: 100/130 time: 7.3s Loss: 0.08 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 15/30 batch: 120/130 time: 7.2s Loss: 0.15 Acc: 95.556%
+
+[Evaluate] Acc: 94.097%
+
+[Train] Epoch: 16/30 batch: 0/130 time: 14.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 10/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 20/130 time: 7.2s Loss: 0.34 Acc: 95.556%
+
+[Train] Epoch: 16/30 batch: 30/130 time: 7.3s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 40/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 50/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 60/130 time: 7.2s Loss: 0.17 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 70/130 time: 7.2s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 80/130 time: 7.2s Loss: 0.11 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 90/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 100/130 time: 7.2s Loss: 0.14 Acc: 97.778%
+
+[Train] Epoch: 16/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 120/130 time: 7.3s Loss: 0.02 Acc: 97.778%
+
+[Evaluate] Acc: 94.097%
+
+[Train] Epoch: 17/30 batch: 0/130 time: 14.2s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 10/130 time: 7.2s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 20/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 30/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 40/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 50/130 time: 7.2s Loss: 0.21 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 60/130 time: 7.2s Loss: 0.23 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 70/130 time: 7.3s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 17/30 batch: 80/130 time: 7.3s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 90/130 time: 7.3s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 17/30 batch: 100/130 time: 7.3s Loss: 0.18 Acc: 98.889%
+
+[Train] Epoch: 17/30 batch: 110/130 time: 7.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 120/130 time: 7.3s Loss: 0.08 Acc: 98.889%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 18/30 batch: 0/130 time: 14.5s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 10/130 time: 7.3s Loss: 0.07 Acc: 95.556%
+
+[Train] Epoch: 18/30 batch: 20/130 time: 7.3s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 30/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 40/130 time: 7.3s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 50/130 time: 7.5s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 60/130 time: 7.3s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 70/130 time: 7.3s Loss: 0.11 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 80/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 90/130 time: 7.2s Loss: 0.12 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 100/130 time: 7.3s Loss: 0.11 Acc: 98.889%
+
+[Train] Epoch: 18/30 batch: 110/130 time: 7.3s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 120/130 time: 7.2s Loss: 0.23 Acc: 100.000%
+
+[Evaluate] Acc: 93.403%
+
+[Train] Epoch: 19/30 batch: 0/130 time: 14.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 10/130 time: 7.4s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 19/30 batch: 20/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 30/130 time: 7.2s Loss: 0.22 Acc: 97.778%
+
+[Train] Epoch: 19/30 batch: 40/130 time: 7.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 50/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 19/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 70/130 time: 7.2s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 19/30 batch: 80/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 90/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 100/130 time: 7.4s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 110/130 time: 7.3s Loss: 0.10 Acc: 100.000%
+
+[Train] Epoch: 19/30 batch: 120/130 time: 7.3s Loss: 0.08 Acc: 98.889%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 20/30 batch: 0/130 time: 14.3s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 10/130 time: 7.3s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 20/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 30/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 40/130 time: 7.2s Loss: 0.09 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 50/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 60/130 time: 7.3s Loss: 0.12 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 70/130 time: 7.2s Loss: 0.13 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 80/130 time: 7.2s Loss: 0.10 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 90/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 100/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 110/130 time: 7.2s Loss: 0.01 Acc: 95.556%
+
+[Train] Epoch: 20/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Evaluate] Acc: 95.486%
+saved
+
+[Train] Epoch: 21/30 batch: 0/130 time: 14.3s Loss: 0.11 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 10/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 20/130 time: 7.3s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 21/30 batch: 30/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 40/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 60/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 70/130 time: 7.2s Loss: 0.12 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 80/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 90/130 time: 7.3s Loss: 0.52 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 100/130 time: 7.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 21/30 batch: 110/130 time: 7.3s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 120/130 time: 7.3s Loss: 0.02 Acc: 97.778%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 22/30 batch: 0/130 time: 14.3s Loss: 0.02 Acc: 94.444%
+
+[Train] Epoch: 22/30 batch: 10/130 time: 7.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 20/130 time: 7.3s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 30/130 time: 7.2s Loss: 0.10 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 40/130 time: 7.3s Loss: 0.09 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 50/130 time: 7.3s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 60/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 70/130 time: 7.4s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 80/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 90/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 100/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 110/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 120/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Evaluate] Acc: 94.792%
+
+[Train] Epoch: 23/30 batch: 0/130 time: 14.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 10/130 time: 7.2s Loss: 0.51 Acc: 96.667%
+
+[Train] Epoch: 23/30 batch: 20/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 30/130 time: 7.4s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 40/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 50/130 time: 7.3s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 60/130 time: 7.3s Loss: 0.12 Acc: 96.667%
+
+[Train] Epoch: 23/30 batch: 70/130 time: 7.3s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 80/130 time: 7.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 90/130 time: 7.2s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 100/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 23/30 batch: 110/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 120/130 time: 7.3s Loss: 0.07 Acc: 95.556%
+
+[Evaluate] Acc: 95.139%
+saved
+
+[Train] Epoch: 24/30 batch: 0/130 time: 14.3s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 24/30 batch: 10/130 time: 7.3s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 24/30 batch: 30/130 time: 7.2s Loss: 0.00 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 40/130 time: 7.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 50/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 60/130 time: 7.3s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 70/130 time: 7.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 80/130 time: 7.5s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 90/130 time: 7.4s Loss: 0.03 Acc: 95.556%
+
+[Train] Epoch: 24/30 batch: 100/130 time: 7.3s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 110/130 time: 7.3s Loss: 0.10 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 120/130 time: 7.3s Loss: 0.05 Acc: 100.000%
+
+[Evaluate] Acc: 95.833%
+saved
+
+[Train] Epoch: 25/30 batch: 0/130 time: 14.5s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 10/130 time: 7.3s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 20/130 time: 7.3s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 30/130 time: 7.3s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 40/130 time: 7.5s Loss: 0.23 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 50/130 time: 7.3s Loss: 0.09 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 60/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 70/130 time: 7.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 80/130 time: 7.3s Loss: 0.11 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 90/130 time: 7.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 100/130 time: 7.3s Loss: 0.07 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 110/130 time: 7.3s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 25/30 batch: 120/130 time: 7.3s Loss: 0.04 Acc: 96.667%
+
+[Evaluate] Acc: 93.750%
+
+[Train] Epoch: 26/30 batch: 0/130 time: 14.3s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 10/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 20/130 time: 7.3s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 30/130 time: 7.3s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 40/130 time: 7.3s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 80/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 90/130 time: 7.4s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 100/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 110/130 time: 7.2s Loss: 0.01 Acc: 95.556%
+
+[Train] Epoch: 26/30 batch: 120/130 time: 7.3s Loss: 0.02 Acc: 100.000%
+
+[Evaluate] Acc: 95.486%
+saved
+
+[Train] Epoch: 27/30 batch: 0/130 time: 14.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 10/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 20/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 30/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 27/30 batch: 40/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 50/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 60/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 70/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 80/130 time: 7.2s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 90/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 100/130 time: 7.2s Loss: 0.00 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 110/130 time: 7.2s Loss: 0.00 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 120/130 time: 7.2s Loss: 0.05 Acc: 97.778%
+
+[Evaluate] Acc: 96.181%
+saved
+
+[Train] Epoch: 28/30 batch: 0/130 time: 14.3s Loss: 0.16 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 10/130 time: 7.2s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 20/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 30/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 40/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 28/30 batch: 50/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 60/130 time: 7.2s Loss: 0.00 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 70/130 time: 7.2s Loss: 0.29 Acc: 96.667%
+
+[Train] Epoch: 28/30 batch: 80/130 time: 7.2s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 90/130 time: 7.2s Loss: 0.00 Acc: 98.889%
+
+[Train] Epoch: 28/30 batch: 100/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 110/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 120/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Evaluate] Acc: 95.139%
+saved
+
+[Train] Epoch: 29/30 batch: 0/130 time: 14.3s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 10/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 30/130 time: 7.2s Loss: 0.13 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 40/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 50/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 60/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 70/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 80/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 90/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 100/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 110/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 29/30 batch: 120/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 30/30 batch: 0/130 time: 14.2s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 30/30 batch: 10/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 30/130 time: 7.4s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 40/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 50/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 60/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 80/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 90/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 100/130 time: 7.2s Loss: 0.12 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 110/130 time: 7.2s Loss: 0.00 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 120/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Evaluate] Acc: 95.486%
+saved
+
+
+参数 ->  {'lr': 0.0001, 'batch_size': 9, 'epochs': 30, 'loss': 'CE', 'dropout_mlp': 0.3, 'dropout_head': 0.3, 'optim': 'AdamW', 'weight_decay': 0.0005}
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+The directory [/root/autodl-tmp/DVS128/frames_number_16_split_by_number] already exists.
+---------------------------------Training---------------------------------
+
+[Train] Epoch: 1/30 batch: 0/130 time: 1.1s Loss: 2.41 Acc: 0.000%
+
+[Train] Epoch: 1/30 batch: 10/130 time: 7.2s Loss: 2.50 Acc: 12.222%
+
+[Train] Epoch: 1/30 batch: 20/130 time: 7.2s Loss: 2.32 Acc: 21.111%
+
+[Train] Epoch: 1/30 batch: 30/130 time: 7.2s Loss: 2.12 Acc: 26.667%
+
+[Train] Epoch: 1/30 batch: 40/130 time: 7.2s Loss: 2.15 Acc: 17.778%
+
+[Train] Epoch: 1/30 batch: 50/130 time: 7.2s Loss: 1.75 Acc: 23.333%
+
+[Train] Epoch: 1/30 batch: 60/130 time: 7.3s Loss: 1.69 Acc: 35.556%
+
+[Train] Epoch: 1/30 batch: 70/130 time: 7.2s Loss: 1.62 Acc: 24.444%
+
+[Train] Epoch: 1/30 batch: 80/130 time: 7.2s Loss: 1.51 Acc: 42.222%
+
+[Train] Epoch: 1/30 batch: 90/130 time: 7.2s Loss: 1.71 Acc: 43.333%
+
+[Train] Epoch: 1/30 batch: 100/130 time: 7.2s Loss: 1.63 Acc: 40.000%
+
+[Train] Epoch: 1/30 batch: 110/130 time: 7.3s Loss: 1.39 Acc: 41.111%
+
+[Train] Epoch: 1/30 batch: 120/130 time: 7.3s Loss: 1.31 Acc: 46.667%
+
+[Evaluate] Acc: 55.903%
+
+[Train] Epoch: 2/30 batch: 0/130 time: 14.4s Loss: 1.24 Acc: 55.556%
+
+[Train] Epoch: 2/30 batch: 10/130 time: 7.3s Loss: 1.12 Acc: 48.889%
+
+[Train] Epoch: 2/30 batch: 20/130 time: 7.3s Loss: 0.99 Acc: 57.778%
+
+[Train] Epoch: 2/30 batch: 30/130 time: 7.3s Loss: 1.09 Acc: 56.667%
+
+[Train] Epoch: 2/30 batch: 40/130 time: 7.3s Loss: 1.23 Acc: 48.889%
+
+[Train] Epoch: 2/30 batch: 50/130 time: 7.3s Loss: 1.63 Acc: 54.444%
+
+[Train] Epoch: 2/30 batch: 60/130 time: 7.3s Loss: 0.96 Acc: 57.778%
+
+[Train] Epoch: 2/30 batch: 70/130 time: 7.3s Loss: 1.25 Acc: 56.667%
+
+[Train] Epoch: 2/30 batch: 80/130 time: 7.3s Loss: 1.03 Acc: 67.778%
+
+[Train] Epoch: 2/30 batch: 90/130 time: 7.3s Loss: 0.63 Acc: 68.889%
+
+[Train] Epoch: 2/30 batch: 100/130 time: 7.3s Loss: 0.89 Acc: 71.111%
+
+[Train] Epoch: 2/30 batch: 110/130 time: 7.3s Loss: 0.68 Acc: 61.111%
+
+[Train] Epoch: 2/30 batch: 120/130 time: 7.3s Loss: 0.82 Acc: 58.889%
+
+[Evaluate] Acc: 73.264%
+
+[Train] Epoch: 3/30 batch: 0/130 time: 14.4s Loss: 0.70 Acc: 64.444%
+
+[Train] Epoch: 3/30 batch: 10/130 time: 7.3s Loss: 0.55 Acc: 81.111%
+
+[Train] Epoch: 3/30 batch: 20/130 time: 7.3s Loss: 0.85 Acc: 58.889%
+
+[Train] Epoch: 3/30 batch: 30/130 time: 7.2s Loss: 0.54 Acc: 71.111%
+
+[Train] Epoch: 3/30 batch: 40/130 time: 7.2s Loss: 0.68 Acc: 70.000%
+
+[Train] Epoch: 3/30 batch: 50/130 time: 7.2s Loss: 0.68 Acc: 72.222%
+
+[Train] Epoch: 3/30 batch: 60/130 time: 7.3s Loss: 0.79 Acc: 67.778%
+
+[Train] Epoch: 3/30 batch: 70/130 time: 7.2s Loss: 0.47 Acc: 81.111%
+
+[Train] Epoch: 3/30 batch: 80/130 time: 7.2s Loss: 0.40 Acc: 80.000%
+
+[Train] Epoch: 3/30 batch: 90/130 time: 7.4s Loss: 0.43 Acc: 67.778%
+
+[Train] Epoch: 3/30 batch: 100/130 time: 7.2s Loss: 0.34 Acc: 73.333%
+
+[Train] Epoch: 3/30 batch: 110/130 time: 7.2s Loss: 0.33 Acc: 78.889%
+
+[Train] Epoch: 3/30 batch: 120/130 time: 7.3s Loss: 0.73 Acc: 73.333%
+
+[Evaluate] Acc: 78.472%
+
+[Train] Epoch: 4/30 batch: 0/130 time: 14.2s Loss: 0.47 Acc: 73.333%
+
+[Train] Epoch: 4/30 batch: 10/130 time: 7.2s Loss: 0.57 Acc: 80.000%
+
+[Train] Epoch: 4/30 batch: 20/130 time: 7.2s Loss: 0.43 Acc: 77.778%
+
+[Train] Epoch: 4/30 batch: 30/130 time: 7.3s Loss: 0.32 Acc: 67.778%
+
+[Train] Epoch: 4/30 batch: 40/130 time: 7.3s Loss: 0.28 Acc: 77.778%
+
+[Train] Epoch: 4/30 batch: 50/130 time: 7.3s Loss: 0.37 Acc: 76.667%
+
+[Train] Epoch: 4/30 batch: 60/130 time: 7.4s Loss: 0.58 Acc: 77.778%
+
+[Train] Epoch: 4/30 batch: 70/130 time: 7.2s Loss: 0.46 Acc: 80.000%
+
+[Train] Epoch: 4/30 batch: 80/130 time: 7.2s Loss: 0.71 Acc: 76.667%
+
+[Train] Epoch: 4/30 batch: 90/130 time: 7.2s Loss: 0.56 Acc: 78.889%
+
+[Train] Epoch: 4/30 batch: 100/130 time: 7.2s Loss: 0.51 Acc: 80.000%
+
+[Train] Epoch: 4/30 batch: 110/130 time: 7.2s Loss: 0.29 Acc: 78.889%
+
+[Train] Epoch: 4/30 batch: 120/130 time: 7.2s Loss: 0.38 Acc: 77.778%
+
+[Evaluate] Acc: 80.208%
+
+[Train] Epoch: 5/30 batch: 0/130 time: 14.2s Loss: 0.41 Acc: 80.000%
+
+[Train] Epoch: 5/30 batch: 10/130 time: 7.3s Loss: 0.68 Acc: 81.111%
+
+[Train] Epoch: 5/30 batch: 20/130 time: 7.2s Loss: 0.53 Acc: 72.222%
+
+[Train] Epoch: 5/30 batch: 30/130 time: 7.2s Loss: 0.31 Acc: 83.333%
+
+[Train] Epoch: 5/30 batch: 40/130 time: 7.2s Loss: 0.29 Acc: 84.444%
+
+[Train] Epoch: 5/30 batch: 50/130 time: 7.2s Loss: 0.39 Acc: 80.000%
+
+[Train] Epoch: 5/30 batch: 60/130 time: 7.2s Loss: 0.28 Acc: 81.111%
+
+[Train] Epoch: 5/30 batch: 70/130 time: 7.2s Loss: 0.23 Acc: 86.667%
+
+[Train] Epoch: 5/30 batch: 80/130 time: 7.2s Loss: 0.71 Acc: 78.889%
+
+[Train] Epoch: 5/30 batch: 90/130 time: 7.2s Loss: 0.31 Acc: 83.333%
+
+[Train] Epoch: 5/30 batch: 100/130 time: 7.2s Loss: 0.31 Acc: 82.222%
+
+[Train] Epoch: 5/30 batch: 110/130 time: 7.3s Loss: 0.50 Acc: 74.444%
+
+[Train] Epoch: 5/30 batch: 120/130 time: 7.3s Loss: 0.24 Acc: 80.000%
+
+[Evaluate] Acc: 79.861%
+
+[Train] Epoch: 6/30 batch: 0/130 time: 14.2s Loss: 0.38 Acc: 76.667%
+
+[Train] Epoch: 6/30 batch: 10/130 time: 7.2s Loss: 0.54 Acc: 74.444%
+
+[Train] Epoch: 6/30 batch: 20/130 time: 7.2s Loss: 0.36 Acc: 81.111%
+
+[Train] Epoch: 6/30 batch: 30/130 time: 7.2s Loss: 0.26 Acc: 80.000%
+
+[Train] Epoch: 6/30 batch: 40/130 time: 7.2s Loss: 0.27 Acc: 82.222%
+
+[Train] Epoch: 6/30 batch: 50/130 time: 7.2s Loss: 0.20 Acc: 86.667%
+
+[Train] Epoch: 6/30 batch: 60/130 time: 7.4s Loss: 0.16 Acc: 88.889%
+
+[Train] Epoch: 6/30 batch: 70/130 time: 7.3s Loss: 0.39 Acc: 84.444%
+
+[Train] Epoch: 6/30 batch: 80/130 time: 7.3s Loss: 0.44 Acc: 84.444%
+
+[Train] Epoch: 6/30 batch: 90/130 time: 7.2s Loss: 0.20 Acc: 81.111%
+
+[Train] Epoch: 6/30 batch: 100/130 time: 7.3s Loss: 0.15 Acc: 86.667%
+
+[Train] Epoch: 6/30 batch: 110/130 time: 7.3s Loss: 0.37 Acc: 77.778%
+
+[Train] Epoch: 6/30 batch: 120/130 time: 7.2s Loss: 0.32 Acc: 80.000%
+
+[Evaluate] Acc: 81.597%
+
+[Train] Epoch: 7/30 batch: 0/130 time: 14.3s Loss: 0.84 Acc: 85.556%
+
+[Train] Epoch: 7/30 batch: 10/130 time: 7.2s Loss: 0.34 Acc: 87.778%
+
+[Train] Epoch: 7/30 batch: 20/130 time: 7.2s Loss: 0.23 Acc: 91.111%
+
+[Train] Epoch: 7/30 batch: 30/130 time: 7.2s Loss: 0.25 Acc: 85.556%
+
+[Train] Epoch: 7/30 batch: 40/130 time: 7.2s Loss: 0.16 Acc: 83.333%
+
+[Train] Epoch: 7/30 batch: 50/130 time: 7.4s Loss: 0.24 Acc: 82.222%
+
+[Train] Epoch: 7/30 batch: 60/130 time: 7.2s Loss: 0.18 Acc: 91.111%
+
+[Train] Epoch: 7/30 batch: 70/130 time: 7.2s Loss: 0.46 Acc: 82.222%
+
+[Train] Epoch: 7/30 batch: 80/130 time: 7.2s Loss: 0.26 Acc: 77.778%
+
+[Train] Epoch: 7/30 batch: 90/130 time: 7.2s Loss: 0.10 Acc: 83.333%
+
+[Train] Epoch: 7/30 batch: 100/130 time: 7.2s Loss: 0.61 Acc: 80.000%
+
+[Train] Epoch: 7/30 batch: 110/130 time: 7.2s Loss: 0.39 Acc: 78.889%
+
+[Train] Epoch: 7/30 batch: 120/130 time: 7.2s Loss: 0.21 Acc: 82.222%
+
+[Evaluate] Acc: 80.556%
+
+[Train] Epoch: 8/30 batch: 0/130 time: 14.3s Loss: 0.30 Acc: 85.556%
+
+[Train] Epoch: 8/30 batch: 10/130 time: 7.3s Loss: 0.13 Acc: 83.333%
+
+[Train] Epoch: 8/30 batch: 20/130 time: 7.4s Loss: 0.23 Acc: 85.556%
+
+[Train] Epoch: 8/30 batch: 30/130 time: 7.3s Loss: 0.38 Acc: 85.556%
+
+[Train] Epoch: 8/30 batch: 40/130 time: 7.2s Loss: 0.23 Acc: 86.667%
+
+[Train] Epoch: 8/30 batch: 50/130 time: 7.2s Loss: 0.40 Acc: 87.778%
+
+[Train] Epoch: 8/30 batch: 60/130 time: 7.2s Loss: 0.40 Acc: 88.889%
+
+[Train] Epoch: 8/30 batch: 70/130 time: 7.2s Loss: 0.27 Acc: 78.889%
+
+[Train] Epoch: 8/30 batch: 80/130 time: 7.2s Loss: 0.28 Acc: 82.222%
+
+[Train] Epoch: 8/30 batch: 90/130 time: 7.2s Loss: 0.11 Acc: 86.667%
+
+[Train] Epoch: 8/30 batch: 100/130 time: 7.3s Loss: 0.22 Acc: 86.667%
+
+[Train] Epoch: 8/30 batch: 110/130 time: 7.2s Loss: 0.11 Acc: 90.000%
+
+[Train] Epoch: 8/30 batch: 120/130 time: 7.2s Loss: 0.31 Acc: 83.333%
+
+[Evaluate] Acc: 87.847%
+
+[Train] Epoch: 9/30 batch: 0/130 time: 14.2s Loss: 0.36 Acc: 87.778%
+
+[Train] Epoch: 9/30 batch: 10/130 time: 7.2s Loss: 0.31 Acc: 87.778%
+
+[Train] Epoch: 9/30 batch: 20/130 time: 7.2s Loss: 0.09 Acc: 85.556%
+
+[Train] Epoch: 9/30 batch: 30/130 time: 7.2s Loss: 0.34 Acc: 85.556%
+
+[Train] Epoch: 9/30 batch: 40/130 time: 7.2s Loss: 0.23 Acc: 86.667%
+
+[Train] Epoch: 9/30 batch: 50/130 time: 7.2s Loss: 0.31 Acc: 80.000%
+
+[Train] Epoch: 9/30 batch: 60/130 time: 7.2s Loss: 0.45 Acc: 81.111%
+
+[Train] Epoch: 9/30 batch: 70/130 time: 7.2s Loss: 0.21 Acc: 84.444%
+
+[Train] Epoch: 9/30 batch: 80/130 time: 7.2s Loss: 0.29 Acc: 85.556%
+
+[Train] Epoch: 9/30 batch: 90/130 time: 7.2s Loss: 0.26 Acc: 87.778%
+
+[Train] Epoch: 9/30 batch: 100/130 time: 7.2s Loss: 0.05 Acc: 88.889%
+
+[Train] Epoch: 9/30 batch: 110/130 time: 7.2s Loss: 0.44 Acc: 86.667%
+
+[Train] Epoch: 9/30 batch: 120/130 time: 7.2s Loss: 0.05 Acc: 92.222%
+
+[Evaluate] Acc: 87.847%
+
+[Train] Epoch: 10/30 batch: 0/130 time: 14.2s Loss: 0.33 Acc: 84.444%
+
+[Train] Epoch: 10/30 batch: 10/130 time: 7.4s Loss: 0.19 Acc: 87.778%
+
+[Train] Epoch: 10/30 batch: 20/130 time: 7.2s Loss: 0.25 Acc: 84.444%
+
+[Train] Epoch: 10/30 batch: 30/130 time: 7.2s Loss: 0.26 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 40/130 time: 7.2s Loss: 0.17 Acc: 86.667%
+
+[Train] Epoch: 10/30 batch: 50/130 time: 7.2s Loss: 0.25 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 60/130 time: 7.3s Loss: 0.35 Acc: 84.444%
+
+[Train] Epoch: 10/30 batch: 70/130 time: 7.3s Loss: 0.57 Acc: 86.667%
+
+[Train] Epoch: 10/30 batch: 80/130 time: 7.2s Loss: 0.13 Acc: 91.111%
+
+[Train] Epoch: 10/30 batch: 90/130 time: 7.2s Loss: 0.22 Acc: 90.000%
+
+[Train] Epoch: 10/30 batch: 100/130 time: 7.2s Loss: 0.24 Acc: 86.667%
+
+[Train] Epoch: 10/30 batch: 110/130 time: 7.2s Loss: 0.17 Acc: 88.889%
+
+[Train] Epoch: 10/30 batch: 120/130 time: 7.2s Loss: 0.42 Acc: 93.333%
+
+[Evaluate] Acc: 87.847%
+
+[Train] Epoch: 11/30 batch: 0/130 time: 14.2s Loss: 0.03 Acc: 94.444%
+
+[Train] Epoch: 11/30 batch: 10/130 time: 7.3s Loss: 0.54 Acc: 90.000%
+
+[Train] Epoch: 11/30 batch: 20/130 time: 7.2s Loss: 0.40 Acc: 94.444%
+
+[Train] Epoch: 11/30 batch: 30/130 time: 7.2s Loss: 0.10 Acc: 93.333%
+
+[Train] Epoch: 11/30 batch: 40/130 time: 7.3s Loss: 0.21 Acc: 92.222%
+
+[Train] Epoch: 11/30 batch: 50/130 time: 7.2s Loss: 0.13 Acc: 90.000%
+
+[Train] Epoch: 11/30 batch: 60/130 time: 7.2s Loss: 0.11 Acc: 93.333%
+
+[Train] Epoch: 11/30 batch: 70/130 time: 7.2s Loss: 0.18 Acc: 85.556%
+
+[Train] Epoch: 11/30 batch: 80/130 time: 7.2s Loss: 0.29 Acc: 85.556%
+
+[Train] Epoch: 11/30 batch: 90/130 time: 7.2s Loss: 0.24 Acc: 84.444%
+
+[Train] Epoch: 11/30 batch: 100/130 time: 7.2s Loss: 0.24 Acc: 87.778%
+
+[Train] Epoch: 11/30 batch: 110/130 time: 7.3s Loss: 0.26 Acc: 90.000%
+
+[Train] Epoch: 11/30 batch: 120/130 time: 7.2s Loss: 0.23 Acc: 85.556%
+
+[Evaluate] Acc: 90.625%
+
+[Train] Epoch: 12/30 batch: 0/130 time: 14.2s Loss: 0.27 Acc: 93.333%
+
+[Train] Epoch: 12/30 batch: 10/130 time: 7.2s Loss: 0.16 Acc: 90.000%
+
+[Train] Epoch: 12/30 batch: 20/130 time: 7.2s Loss: 0.12 Acc: 94.444%
+
+[Train] Epoch: 12/30 batch: 30/130 time: 7.2s Loss: 0.24 Acc: 88.889%
+
+[Train] Epoch: 12/30 batch: 40/130 time: 7.2s Loss: 0.66 Acc: 90.000%
+
+[Train] Epoch: 12/30 batch: 50/130 time: 7.2s Loss: 0.34 Acc: 88.889%
+
+[Train] Epoch: 12/30 batch: 60/130 time: 7.3s Loss: 0.29 Acc: 88.889%
+
+[Train] Epoch: 12/30 batch: 70/130 time: 7.2s Loss: 0.16 Acc: 96.667%
+
+[Train] Epoch: 12/30 batch: 80/130 time: 7.2s Loss: 0.30 Acc: 85.556%
+
+[Train] Epoch: 12/30 batch: 90/130 time: 7.2s Loss: 0.28 Acc: 95.556%
+
+[Train] Epoch: 12/30 batch: 100/130 time: 7.2s Loss: 0.27 Acc: 95.556%
+
+[Train] Epoch: 12/30 batch: 110/130 time: 7.2s Loss: 0.19 Acc: 92.222%
+
+[Train] Epoch: 12/30 batch: 120/130 time: 7.2s Loss: 0.14 Acc: 92.222%
+
+[Evaluate] Acc: 89.583%
+
+[Train] Epoch: 13/30 batch: 0/130 time: 14.3s Loss: 0.19 Acc: 92.222%
+
+[Train] Epoch: 13/30 batch: 10/130 time: 7.2s Loss: 0.13 Acc: 90.000%
+
+[Train] Epoch: 13/30 batch: 20/130 time: 7.2s Loss: 0.12 Acc: 95.556%
+
+[Train] Epoch: 13/30 batch: 30/130 time: 7.2s Loss: 0.40 Acc: 87.778%
+
+[Train] Epoch: 13/30 batch: 40/130 time: 7.2s Loss: 0.12 Acc: 95.556%
+
+[Train] Epoch: 13/30 batch: 50/130 time: 7.2s Loss: 0.19 Acc: 93.333%
+
+[Train] Epoch: 13/30 batch: 60/130 time: 7.2s Loss: 0.15 Acc: 90.000%
+
+[Train] Epoch: 13/30 batch: 70/130 time: 7.2s Loss: 0.15 Acc: 93.333%
+
+[Train] Epoch: 13/30 batch: 80/130 time: 7.2s Loss: 0.15 Acc: 93.333%
+
+[Train] Epoch: 13/30 batch: 90/130 time: 7.2s Loss: 0.16 Acc: 92.222%
+
+[Train] Epoch: 13/30 batch: 100/130 time: 7.4s Loss: 0.11 Acc: 90.000%
+
+[Train] Epoch: 13/30 batch: 110/130 time: 7.3s Loss: 0.21 Acc: 94.444%
+
+[Train] Epoch: 13/30 batch: 120/130 time: 7.2s Loss: 0.04 Acc: 94.444%
+
+[Evaluate] Acc: 88.542%
+
+[Train] Epoch: 14/30 batch: 0/130 time: 14.3s Loss: 0.22 Acc: 93.333%
+
+[Train] Epoch: 14/30 batch: 10/130 time: 7.2s Loss: 0.73 Acc: 92.222%
+
+[Train] Epoch: 14/30 batch: 20/130 time: 7.2s Loss: 0.15 Acc: 92.222%
+
+[Train] Epoch: 14/30 batch: 30/130 time: 7.2s Loss: 0.28 Acc: 94.444%
+
+[Train] Epoch: 14/30 batch: 40/130 time: 7.2s Loss: 0.10 Acc: 93.333%
+
+[Train] Epoch: 14/30 batch: 50/130 time: 7.2s Loss: 0.12 Acc: 97.778%
+
+[Train] Epoch: 14/30 batch: 60/130 time: 7.2s Loss: 0.32 Acc: 94.444%
+
+[Train] Epoch: 14/30 batch: 70/130 time: 7.2s Loss: 0.06 Acc: 95.556%
+
+[Train] Epoch: 14/30 batch: 80/130 time: 7.2s Loss: 0.12 Acc: 97.778%
+
+[Train] Epoch: 14/30 batch: 90/130 time: 7.4s Loss: 0.11 Acc: 95.556%
+
+[Train] Epoch: 14/30 batch: 100/130 time: 7.2s Loss: 0.09 Acc: 93.333%
+
+[Train] Epoch: 14/30 batch: 110/130 time: 7.2s Loss: 0.05 Acc: 94.444%
+
+[Train] Epoch: 14/30 batch: 120/130 time: 7.2s Loss: 0.16 Acc: 91.111%
+
+[Evaluate] Acc: 92.014%
+
+[Train] Epoch: 15/30 batch: 0/130 time: 14.3s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 10/130 time: 7.2s Loss: 0.21 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 20/130 time: 7.2s Loss: 0.07 Acc: 95.556%
+
+[Train] Epoch: 15/30 batch: 30/130 time: 7.2s Loss: 0.05 Acc: 95.556%
+
+[Train] Epoch: 15/30 batch: 40/130 time: 7.2s Loss: 0.07 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 50/130 time: 7.2s Loss: 0.08 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 60/130 time: 7.4s Loss: 0.42 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 70/130 time: 7.2s Loss: 0.12 Acc: 97.778%
+
+[Train] Epoch: 15/30 batch: 80/130 time: 7.2s Loss: 0.32 Acc: 91.111%
+
+[Train] Epoch: 15/30 batch: 90/130 time: 7.2s Loss: 0.10 Acc: 94.444%
+
+[Train] Epoch: 15/30 batch: 100/130 time: 7.2s Loss: 0.07 Acc: 96.667%
+
+[Train] Epoch: 15/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 93.333%
+
+[Train] Epoch: 15/30 batch: 120/130 time: 7.2s Loss: 0.07 Acc: 97.778%
+
+[Evaluate] Acc: 95.486%
+saved
+
+[Train] Epoch: 16/30 batch: 0/130 time: 14.3s Loss: 0.21 Acc: 92.222%
+
+[Train] Epoch: 16/30 batch: 10/130 time: 7.4s Loss: 0.15 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 20/130 time: 7.2s Loss: 0.10 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 30/130 time: 7.2s Loss: 0.07 Acc: 97.778%
+
+[Train] Epoch: 16/30 batch: 40/130 time: 7.2s Loss: 0.04 Acc: 95.556%
+
+[Train] Epoch: 16/30 batch: 50/130 time: 7.2s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 16/30 batch: 60/130 time: 7.2s Loss: 0.29 Acc: 95.556%
+
+[Train] Epoch: 16/30 batch: 70/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 16/30 batch: 80/130 time: 7.2s Loss: 0.08 Acc: 95.556%
+
+[Train] Epoch: 16/30 batch: 90/130 time: 7.2s Loss: 0.10 Acc: 98.889%
+
+[Train] Epoch: 16/30 batch: 100/130 time: 7.3s Loss: 0.11 Acc: 100.000%
+
+[Train] Epoch: 16/30 batch: 110/130 time: 7.2s Loss: 0.14 Acc: 93.333%
+
+[Train] Epoch: 16/30 batch: 120/130 time: 7.2s Loss: 0.24 Acc: 97.778%
+
+[Evaluate] Acc: 92.361%
+
+[Train] Epoch: 17/30 batch: 0/130 time: 14.2s Loss: 0.06 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 10/130 time: 7.2s Loss: 0.10 Acc: 98.889%
+
+[Train] Epoch: 17/30 batch: 20/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 30/130 time: 7.2s Loss: 0.12 Acc: 94.444%
+
+[Train] Epoch: 17/30 batch: 40/130 time: 7.2s Loss: 0.06 Acc: 100.000%
+
+[Train] Epoch: 17/30 batch: 50/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 17/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 95.556%
+
+[Train] Epoch: 17/30 batch: 70/130 time: 7.2s Loss: 0.19 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 80/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 17/30 batch: 90/130 time: 7.2s Loss: 0.03 Acc: 95.556%
+
+[Train] Epoch: 17/30 batch: 100/130 time: 7.2s Loss: 0.22 Acc: 95.556%
+
+[Train] Epoch: 17/30 batch: 110/130 time: 7.2s Loss: 0.08 Acc: 96.667%
+
+[Train] Epoch: 17/30 batch: 120/130 time: 7.2s Loss: 0.12 Acc: 95.556%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 18/30 batch: 0/130 time: 14.2s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 10/130 time: 7.3s Loss: 0.11 Acc: 100.000%
+
+[Train] Epoch: 18/30 batch: 20/130 time: 7.2s Loss: 0.07 Acc: 92.222%
+
+[Train] Epoch: 18/30 batch: 30/130 time: 7.2s Loss: 0.11 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 40/130 time: 7.2s Loss: 0.10 Acc: 95.556%
+
+[Train] Epoch: 18/30 batch: 50/130 time: 7.2s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 18/30 batch: 60/130 time: 7.2s Loss: 0.06 Acc: 94.444%
+
+[Train] Epoch: 18/30 batch: 70/130 time: 7.2s Loss: 0.15 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 80/130 time: 7.2s Loss: 0.13 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 90/130 time: 7.2s Loss: 0.08 Acc: 95.556%
+
+[Train] Epoch: 18/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 18/30 batch: 110/130 time: 7.2s Loss: 0.21 Acc: 95.556%
+
+[Train] Epoch: 18/30 batch: 120/130 time: 7.2s Loss: 0.06 Acc: 97.778%
+
+[Evaluate] Acc: 93.750%
+
+[Train] Epoch: 19/30 batch: 0/130 time: 14.3s Loss: 0.24 Acc: 95.556%
+
+[Train] Epoch: 19/30 batch: 10/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 20/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 30/130 time: 7.2s Loss: 0.08 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 40/130 time: 7.2s Loss: 0.04 Acc: 95.556%
+
+[Train] Epoch: 19/30 batch: 50/130 time: 7.2s Loss: 0.14 Acc: 96.667%
+
+[Train] Epoch: 19/30 batch: 60/130 time: 7.2s Loss: 0.10 Acc: 96.667%
+
+[Train] Epoch: 19/30 batch: 70/130 time: 7.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 80/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 19/30 batch: 90/130 time: 7.2s Loss: 0.36 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 19/30 batch: 110/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 19/30 batch: 120/130 time: 7.2s Loss: 0.09 Acc: 96.667%
+
+[Evaluate] Acc: 94.097%
+
+[Train] Epoch: 20/30 batch: 0/130 time: 14.3s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 20/30 batch: 10/130 time: 7.2s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 20/130 time: 7.3s Loss: 0.32 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 30/130 time: 7.3s Loss: 0.06 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 40/130 time: 7.2s Loss: 0.07 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 50/130 time: 7.2s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 60/130 time: 7.2s Loss: 0.14 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 70/130 time: 7.3s Loss: 0.19 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 80/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Train] Epoch: 20/30 batch: 90/130 time: 7.4s Loss: 0.42 Acc: 96.667%
+
+[Train] Epoch: 20/30 batch: 100/130 time: 7.2s Loss: 0.15 Acc: 98.889%
+
+[Train] Epoch: 20/30 batch: 110/130 time: 7.2s Loss: 0.01 Acc: 95.556%
+
+[Train] Epoch: 20/30 batch: 120/130 time: 7.3s Loss: 0.04 Acc: 97.778%
+
+[Evaluate] Acc: 94.097%
+
+[Train] Epoch: 21/30 batch: 0/130 time: 14.2s Loss: 0.13 Acc: 95.556%
+
+[Train] Epoch: 21/30 batch: 10/130 time: 7.2s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 21/30 batch: 20/130 time: 7.2s Loss: 0.13 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 30/130 time: 7.2s Loss: 0.11 Acc: 93.333%
+
+[Train] Epoch: 21/30 batch: 40/130 time: 7.2s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 21/30 batch: 50/130 time: 7.3s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 21/30 batch: 60/130 time: 7.2s Loss: 0.11 Acc: 95.556%
+
+[Train] Epoch: 21/30 batch: 70/130 time: 7.2s Loss: 0.14 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 80/130 time: 7.2s Loss: 0.18 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 90/130 time: 7.2s Loss: 0.05 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 100/130 time: 7.2s Loss: 0.06 Acc: 96.667%
+
+[Train] Epoch: 21/30 batch: 110/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 21/30 batch: 120/130 time: 7.2s Loss: 0.12 Acc: 97.778%
+
+[Evaluate] Acc: 93.056%
+
+[Train] Epoch: 22/30 batch: 0/130 time: 14.2s Loss: 0.07 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 10/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 22/30 batch: 20/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 30/130 time: 7.2s Loss: 0.11 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 40/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 50/130 time: 7.3s Loss: 0.10 Acc: 97.778%
+
+[Train] Epoch: 22/30 batch: 60/130 time: 7.2s Loss: 0.13 Acc: 95.556%
+
+[Train] Epoch: 22/30 batch: 70/130 time: 7.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 80/130 time: 7.2s Loss: 0.09 Acc: 95.556%
+
+[Train] Epoch: 22/30 batch: 90/130 time: 7.3s Loss: 0.08 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 100/130 time: 7.2s Loss: 0.11 Acc: 96.667%
+
+[Train] Epoch: 22/30 batch: 110/130 time: 7.3s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 22/30 batch: 120/130 time: 7.3s Loss: 0.07 Acc: 98.889%
+
+[Evaluate] Acc: 92.708%
+
+[Train] Epoch: 23/30 batch: 0/130 time: 14.3s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 10/130 time: 7.3s Loss: 0.04 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 20/130 time: 7.2s Loss: 0.11 Acc: 94.444%
+
+[Train] Epoch: 23/30 batch: 30/130 time: 7.2s Loss: 0.09 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 40/130 time: 7.3s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 50/130 time: 7.2s Loss: 0.21 Acc: 92.222%
+
+[Train] Epoch: 23/30 batch: 60/130 time: 7.3s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 70/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 80/130 time: 7.4s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 90/130 time: 7.2s Loss: 0.06 Acc: 97.778%
+
+[Train] Epoch: 23/30 batch: 100/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 23/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 96.667%
+
+[Train] Epoch: 23/30 batch: 120/130 time: 7.2s Loss: 0.22 Acc: 97.778%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 24/30 batch: 0/130 time: 14.3s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 10/130 time: 7.2s Loss: 0.18 Acc: 95.556%
+
+[Train] Epoch: 24/30 batch: 20/130 time: 7.2s Loss: 0.03 Acc: 100.000%
+
+[Train] Epoch: 24/30 batch: 30/130 time: 7.2s Loss: 0.13 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 40/130 time: 7.2s Loss: 0.09 Acc: 94.444%
+
+[Train] Epoch: 24/30 batch: 50/130 time: 7.4s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 60/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 70/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 80/130 time: 7.3s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 90/130 time: 7.2s Loss: 0.28 Acc: 96.667%
+
+[Train] Epoch: 24/30 batch: 100/130 time: 7.3s Loss: 0.02 Acc: 95.556%
+
+[Train] Epoch: 24/30 batch: 110/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 24/30 batch: 120/130 time: 7.2s Loss: 0.10 Acc: 100.000%
+
+[Evaluate] Acc: 95.486%
+saved
+
+[Train] Epoch: 25/30 batch: 0/130 time: 14.4s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 10/130 time: 7.2s Loss: 0.06 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 20/130 time: 7.2s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 25/30 batch: 30/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 40/130 time: 7.2s Loss: 0.19 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 50/130 time: 7.2s Loss: 0.08 Acc: 96.667%
+
+[Train] Epoch: 25/30 batch: 60/130 time: 7.2s Loss: 0.14 Acc: 96.667%
+
+[Train] Epoch: 25/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 80/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 25/30 batch: 90/130 time: 7.2s Loss: 0.24 Acc: 96.667%
+
+[Train] Epoch: 25/30 batch: 100/130 time: 7.3s Loss: 0.06 Acc: 98.889%
+
+[Train] Epoch: 25/30 batch: 110/130 time: 7.2s Loss: 0.17 Acc: 95.556%
+
+[Train] Epoch: 25/30 batch: 120/130 time: 7.2s Loss: 0.08 Acc: 97.778%
+
+[Evaluate] Acc: 94.097%
+
+[Train] Epoch: 26/30 batch: 0/130 time: 14.2s Loss: 0.11 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 10/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 30/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 40/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 26/30 batch: 50/130 time: 7.3s Loss: 0.01 Acc: 96.667%
+
+[Train] Epoch: 26/30 batch: 60/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 70/130 time: 7.2s Loss: 0.23 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 80/130 time: 7.2s Loss: 0.02 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 90/130 time: 7.2s Loss: 0.12 Acc: 100.000%
+
+[Train] Epoch: 26/30 batch: 100/130 time: 7.2s Loss: 0.10 Acc: 97.778%
+
+[Train] Epoch: 26/30 batch: 110/130 time: 7.2s Loss: 0.01 Acc: 95.556%
+
+[Train] Epoch: 26/30 batch: 120/130 time: 7.2s Loss: 0.04 Acc: 97.778%
+
+[Evaluate] Acc: 94.444%
+
+[Train] Epoch: 27/30 batch: 0/130 time: 14.2s Loss: 0.11 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 10/130 time: 7.2s Loss: 0.03 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 20/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 30/130 time: 7.2s Loss: 0.10 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 40/130 time: 7.2s Loss: 0.07 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 50/130 time: 7.2s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 27/30 batch: 60/130 time: 7.2s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 27/30 batch: 70/130 time: 7.2s Loss: 0.19 Acc: 98.889%
+
+[Train] Epoch: 27/30 batch: 80/130 time: 7.2s Loss: 0.05 Acc: 100.000%
+
+[Train] Epoch: 27/30 batch: 90/130 time: 7.4s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 27/30 batch: 100/130 time: 7.2s Loss: 0.08 Acc: 96.667%
+
+[Train] Epoch: 27/30 batch: 110/130 time: 7.2s Loss: 0.03 Acc: 96.667%
+
+[Train] Epoch: 27/30 batch: 120/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Evaluate] Acc: 94.792%
+
+[Train] Epoch: 28/30 batch: 0/130 time: 14.2s Loss: 0.26 Acc: 97.778%
+
+[Train] Epoch: 28/30 batch: 10/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 20/130 time: 7.2s Loss: 0.04 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 30/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 40/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 28/30 batch: 50/130 time: 7.2s Loss: 0.15 Acc: 96.667%
+
+[Train] Epoch: 28/30 batch: 60/130 time: 7.2s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 28/30 batch: 70/130 time: 7.2s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 28/30 batch: 80/130 time: 7.5s Loss: 0.09 Acc: 96.667%
+
+[Train] Epoch: 28/30 batch: 90/130 time: 7.3s Loss: 0.13 Acc: 100.000%
+
+[Train] Epoch: 28/30 batch: 100/130 time: 7.3s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 28/30 batch: 110/130 time: 7.3s Loss: 0.19 Acc: 95.556%
+
+[Train] Epoch: 28/30 batch: 120/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Evaluate] Acc: 94.792%
+
+[Train] Epoch: 29/30 batch: 0/130 time: 14.4s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 10/130 time: 7.2s Loss: 0.03 Acc: 95.556%
+
+[Train] Epoch: 29/30 batch: 20/130 time: 7.3s Loss: 0.03 Acc: 97.778%
+
+[Train] Epoch: 29/30 batch: 30/130 time: 7.3s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 40/130 time: 7.3s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 50/130 time: 7.5s Loss: 0.12 Acc: 96.667%
+
+[Train] Epoch: 29/30 batch: 60/130 time: 7.2s Loss: 0.05 Acc: 96.667%
+
+[Train] Epoch: 29/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 80/130 time: 7.2s Loss: 0.15 Acc: 100.000%
+
+[Train] Epoch: 29/30 batch: 90/130 time: 7.2s Loss: 0.09 Acc: 97.778%
+
+[Train] Epoch: 29/30 batch: 100/130 time: 7.3s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 110/130 time: 7.2s Loss: 0.02 Acc: 98.889%
+
+[Train] Epoch: 29/30 batch: 120/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Evaluate] Acc: 95.139%
+saved
+
+[Train] Epoch: 30/30 batch: 0/130 time: 14.5s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 10/130 time: 7.2s Loss: 0.08 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 20/130 time: 7.2s Loss: 0.01 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 30/130 time: 7.2s Loss: 0.07 Acc: 97.778%
+
+[Train] Epoch: 30/30 batch: 40/130 time: 7.2s Loss: 0.02 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 50/130 time: 7.2s Loss: 0.04 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 60/130 time: 7.2s Loss: 0.05 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 70/130 time: 7.2s Loss: 0.01 Acc: 97.778%
+
+[Train] Epoch: 30/30 batch: 80/130 time: 7.2s Loss: 0.01 Acc: 100.000%
+
+[Train] Epoch: 30/30 batch: 90/130 time: 7.3s Loss: 0.02 Acc: 96.667%
+
+[Train] Epoch: 30/30 batch: 100/130 time: 7.2s Loss: 0.00 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 110/130 time: 7.2s Loss: 0.22 Acc: 98.889%
+
+[Train] Epoch: 30/30 batch: 120/130 time: 7.3s Loss: 0.08 Acc: 100.000%
+
+[Evaluate] Acc: 94.097%
+saved

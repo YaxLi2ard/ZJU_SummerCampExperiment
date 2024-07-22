@@ -1,0 +1,2 @@
+放预训练模型
+默认加载'Spike-DrivenV2_last2.pkl'
