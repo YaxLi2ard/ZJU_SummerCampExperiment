@@ -41,7 +41,8 @@ ZJU_SummerCampExperiment:
 │  └─weights
 │          // 存放微调的模型权重
 │
-├─code2_new  // 重新进行的 阶段2 步骤1 的任务
+├─code2_new 
+│  │  // 重新进行的 阶段2 步骤1 的任务 
 │  │  main.py   // 在DVS128上训练Spike-DrivenV2
 │  │  merging_greedy.py   // greedy soup合并模型
 │  │  merging_uniform.py   // uniform soup合并模型
