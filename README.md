@@ -40,7 +40,20 @@ ZJU_SummerCampExperiment:
 │  │  
 │  └─weights
 │          // 存放微调的模型权重
-│          
+│
+├─code2_new  // 重新进行的 阶段2 步骤1 的任务
+│  │  main.py   // 在DVS128上训练Spike-DrivenV2
+│  │  merging_greedy.py   // greedy soup合并模型
+│  │  merging_uniform.py   // uniform soup合并模型
+│  │  check.py   // 简单查找合并后会使准确率降低的权重（无效合并权重）
+│  │  flag.npy   // 记录有效合并权重的序号，由check.py产生
+│  │  log.txt   // 部分训练过程的输出记录
+│  │  models.py   // Spike-DrivenV2模型代码
+│  │  usetest.py   // 对指定权重在DVS128 Gesture测试集上测试
+│  │  
+│  └─weights
+│          // 存放微调的模型权重
+│
 ├─code3
 │  │  main.py   // 在CIFAR10上训练Spike-DrivenV2
 │  │  merging_greedy.py   // greedy soup合并模型
